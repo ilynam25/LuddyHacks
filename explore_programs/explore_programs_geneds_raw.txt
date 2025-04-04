@@ -1,0 +1,2663 @@
+AAAD-A 132 Recent African American and African Diaspora Literature
+#Africa#Central America#Culture#History#Human Rights#Literature#North America#South America#Writing
+AH
+AAAD-A 150 Survey of the Culture of Black Americans
+#Art#Crafts#Culture#History#Literature#North America#Performance#Religion
+AH
+AAAD-A 154 History of Race in the Americas
+#Central America#Culture#Government#History#Human Rights#North America#South America
+SHWC
+AAAD-A 156 Black Liberation Struggles against Jim Crow and Apartheid
+#Africa#Conflict Resolution#Government#History#Human Rights#Legal Issues#North America#Philosophy
+SHWC
+AAAD-A 169 Introduction to African American Literature
+#Literature#North America
+AH
+AAAD-A 203 Studying Blacks of the New World: African Americans and Africans in the African Diaspora
+#Culture#History#North America
+SH
+AAAD-A 210 Black Women in the Diaspora
+#Gender and LGBTQ+#History#Human Rights#North America
+SH
+AAAD-A 221 Dance in the African Diaspora
+#Culture#History#North America#Performance#Pop Culture
+WC
+AAAD-A 238 Communication in Black America
+#Communication#Culture#History#Language#Media#North America
+AH
+AAAD-A 249 African American Autobiography
+#Culture#History#Human Rights#Literature#North America#Religion#Writing
+AH
+AAAD-A 250 U.S. Contemporary Minorities
+#Culture#History#Human Rights#North America
+SH
+AAAD-A 255 The Black Church in America
+#Culture#Human Rights#North America#Religion
+SH
+AAAD-A 257 Monuments, Memories: Jewish and Black Experiences
+#Culture#History#Human Rights
+SH
+AAAD-A 264 History of Sports and the African American Experience
+#Culture#History#Human Rights#North America#Pop Culture#Sports
+SH
+AAAD-A 265 Modern Sports and the African American Experience
+#Culture#History#Human Rights#North America#Pop Culture#Sports
+SH
+AAAD-A 277 Images of Blacks in Films: 1903-1950s
+#Culture#History#Movies#North America
+AH
+AAAD-A 278 Contemporary Black Film
+#Culture#History#Movies#North America
+AH
+AAAD-A 290 Sociocultural Perspective of African American Music
+#Culture#History#Music#North America
+AH
+AAAD-A 295 Survey of Hip Hop
+#Culture#History#Media#Music#North America#Pop Culture
+AH
+AAAD-A 297 Popular Music of Black America
+#Culture#History#Music#North America
+AH
+AAST-A 101 Introduction to Asian American Studies
+#Culture#History#Human Rights#Literature#Movies#North America
+SH
+AAST-A 200 Asian American Literature
+#Culture#History#Literature#North America
+AH
+AAST-A 201 Asian Diaspora Experience
+#Art#Asia#Culture#History#Literature#Media#Movies#Music#News#North America#Performance#Photography
+AHWC
+ABEH-A 101 Introduction to Animal Behavior
+#Animals#Science
+NS
+AFRI-A 100 Introduction to African Studies
+#Africa#Art#Culture#Environment#Gender and LGBTQ+#Government#Healthcare#Helping People#History#Human Behavior#Human Rights#International#Literature#Media#Movies#Pop Culture#Religion#Sustainability#Writing
+WC
+AFRI-B 101 Elementary Bamana I
+#Africa#Culture#Language
+WL
+AFRI-B 102 Elementary Bamana II
+#Africa#Culture#Language
+WL
+AFRI-B 201 Intermediate Bamana I
+#Africa#Language#Writing
+WL
+AFRI-B 202 Intermediate Bamana II
+#Africa#Language#Writing
+WL
+AFRI-K 101 Elementary Akan I
+#Africa#Language
+WL
+AFRI-K 102 Elementary Akan II
+#Africa#Culture#Language
+WL
+AFRI-K 201 Intermediate Akan I
+#Africa#Language#Writing
+WL
+AFRI-K 202 Intermediate Akan II
+#Africa#Culture#Language#Writing
+WL
+AFRI-L 232 Contemporary Africa
+#Africa
+SHWC
+AFRI-R 101 Elementary Kinyarwanda I
+#Africa#Language
+WL
+AFRI-R 102 Elementary Kinyarwanda II
+#Africa#Language
+WL
+AFRI-R 201 Intermediate Kinyarwanda I
+#Africa#Language
+WL
+AFRI-R 202 Intermediate Kinyarwanda II
+#Africa#Language
+WL
+AFRI-S 101 Elementary Swahili I
+#Africa#Culture#Language
+WL
+AFRI-S 102 Elementary Swahili II
+#Africa#Culture#Language
+WL
+AFRI-S 201 Intermediate Swahili I
+#Africa#Language#Writing
+WL
+AFRI-S 202 Intermediate Swahili II
+#Africa#Language#Writing
+WL
+AFRI-W 101 Elementary Wolof I
+#Africa#Culture#Language
+WL
+AFRI-W 102 Elementary Wolof II
+#Africa#Language
+WL
+AFRI-W 201 Intermediate Wolof I
+#Africa#Language#Writing
+WL
+AFRI-W 202 Intermediate Wolof II
+#Africa#Language#Writing
+WL
+AFRI-Y 101 Elementary Yoruba I
+#Africa#Culture#Language
+WL
+AFRI-Y 102 Elementary Yoruba II
+#Africa#Language
+WL
+AFRI-Y 201 Intermediate Yoruba I
+#Africa#Culture#Language#Writing
+WL
+AFRI-Y 202 Intermediate Yoruba II
+#Africa#Culture#Language#Writing
+WL
+AFRI-Z 101 Elementary Zulu I
+#Africa#Culture#Language
+WL
+AFRI-Z 102 Elementary Zulu II
+#Africa#Culture#Language
+WL
+AFRI-Z 201 Intermediate Zulu I
+#Africa#Culture#Language#Writing
+WL
+AFRI-Z 202 Intermediate Zulu II
+#Africa#Culture#Language#Writing
+WL
+AMST-A 150 Introduction to Native American and Indigenous Studies
+#Art#Crafts#Culture#Fashion#Government#History#Human Rights#Language#Literature#North America#Performance#Religion
+SH
+AMST-A 200 Comparative American Identities
+#Culture#Gender and LGBTQ+#Government#History#Human Rights#North America
+AH
+AMST-A 201 U.S. Movements and Institutions
+#Culture#History#North America
+SH
+AMST-A 202 U.S. Arts and Media
+#Art#Media#North America
+AH
+AMST-A 203 American Cultures, Global Connectives (Topic: Gender, Culture, and Narrative in a Global Context)
+#Culture#Gender and LGBTQ+#International#North America
+WC
+AMST-A 203 American Cultures, Global Connectives (Topic: Global Terrors: Race, Class, and Gender in World Horror Film Culture)
+#Culture#International#North America
+WC
+ANAT-A 215 Basic Human Anatomy
+#Science
+NS
+ANTH-A 107 Becoming Human: Evolving Genes, Bodies, Behavior, Ideas
+#Forensics#History#Human Behavior#Science
+NS
+ANTH-A 122 Interpersonal Communication
+#Communication#Culture#Human Behavior#Language
+SH
+ANTH-A 200 Topics in Anthropology of Culture and Society
+#Culture#History
+SH
+ANTH-A 208 Topics in the Anthropology of the Arts and Expressive Behavior
+#Art#Crafts#Culture#History#Literature#Music#Performance#Religion
+AH
+ANTH-A 211 Anthropology Topics in the Natural and Mathematical Sciences
+#Animals#Environment#Food#Forensics#Human Behavior#Science#Technology
+NS
+ANTH-A 221 Anthropology of Food
+#Culture#Food#History#Human Behavior
+SH
+ANTH-A 288 Sex, Drugs, and Rock-n-Roll (Subversive Culture)
+#Culture#Gender and LGBTQ+#Music#Pop Culture
+AH
+ANTH-B 111 Introduction to Chimpanzee Behavior and Cognition
+#Animals#Science
+NS
+ANTH-B 200 Bioanthropology
+#Environment#Science
+NS
+ANTH-B 260 Biocultural Medical Anthropology
+#Culture#Environment#Healthcare#Science
+NS
+ANTH-E 101 Sustainability and Society
+#Government#History#Human Behavior#International#Nature#Science#Sustainability
+SH
+ANTH-E 200 Social and Cultural Anthropology
+#Culture#Gender and LGBTQ+#Government#History#Human Behavior#Human Rights#International#Language#Philosophy#Religion
+SH
+ANTH-E 203 Stigma and the Expressive Arts: Cultivating Compassion
+#Art#Culture#Gender and LGBTQ+#Helping People#Human Rights#Movies#Music#Performance#Photography#Writing
+AH
+ANTH-E 206 Chanting Down Babylon: Protest and Popular Culture in the Afro-Caribbean
+#Africa#Central America#Culture#Government#History#Human Rights#Media#Movies#Music#North America#Pop Culture
+SH
+ANTH-E 208 Global Jazz, Reggae, and Hip-Hop: African Diasporic Music Beyond the African Diaspora
+#Africa#Central America#Culture#Gender and LGBTQ+#History#Music#North America#Religion#South America
+AH
+ANTH-E 220 Performing Human/Nature: Defining Relationships with the Environment
+#Art#Culture#Journalism#Literature#Movies#Music
+AH
+ANTH-E 260 Culture, Health, and Illness
+#Culture#Gender and LGBTQ+#Healthcare#Human Rights#International#Religion
+SH
+ANTH-E 270 Captivity Narratives
+#Culture#History#Human Rights#International#Language#Literature
+AH
+ANTH-L 200 Language and Culture
+#Communication#Culture#Language
+SH
+ANTH-L 204 Language and (In)Tolerance in the U.S.
+#Conflict Resolution#Counseling#Culture#Helping People#History#Human Behavior#Human Rights#Language#Legal Issues#North America
+SH
+ANTH-P 200 Introduction to Archaeology
+#Culture#Food#Government#History#Human Behavior#International#Philosophy
+SH
+ANTH-P 215 Sex in the Ancient City: An Archaeology of Sex
+#Culture#History#International
+SH
+ANTH-P 250 Introductory World Archeology
+#Culture#History#International
+SHWC
+ARTH-A 101 Ancient and Medieval Art
+#Africa#Art#Crafts#Culture#Europe#Fashion#History
+SHWC
+ARTH-A 102 Renaissance through Modern Art
+#Art#Crafts#Culture#Design#Europe#History#North America#Photography#Pop Culture
+SHWC
+ARTH-A 155 Introduction to African Art
+#Africa#Art#History
+WCAH
+ARTH-A 156 Introduction to Art of the African Diaspora
+#Africa#Art#Culture#History#Human Rights#International#North America#South America
+SHWC
+ARTH-A 160 Introduction to East Asian Art
+#Art#Asia#History
+WC
+ARTH-A 160 Introduction to East Asian Art
+#Art#Asia#Culture#History
+AH
+ARTH-A 200 Topics in Art History (Topic: Art of the Great Depression)
+#Art#History#Movies#Photography
+AH
+ARTH-A 201 Art and Culture of Southern Italy
+#Art#Culture#Design#Europe#History
+SHWC
+ARTH-A 203 Machine Age Modern: European Art, 1848-1939
+#Art#Culture#Europe#History#Media#Movies#Photography#Pop Culture
+AH
+ARTH-A 204 Buddha and Beyond: Keywords for the Study of East Asian Buddhist Art
+#Art#Asia#Language#Religion
+AHWC
+ARTH-A 205 Baroque Art in Europe: From Caravaggio to Rembrandt
+#Art#Europe#History
+AHWC
+ARTH-A 206 Classical Art and Archaeology
+#Art#Culture#Europe#History
+AHWC
+ARTH-A 207 Introduction to Contemporary Art and Its Discontents, 1960 to the Present
+#Art#Culture#History#Pop Culture
+AH
+ARTH-A 214 Art and Life in Ancient Rome
+#Art#Culture#Design#Europe#History
+SH
+ARTH-A 220 American Arts/American Identities
+#Art#Culture#History#North America#Photography#Pop Culture
+AH
+ARTH-A 224 The Gothic Cathedral
+#Art#Design#Europe#Government#History#Music#Religion
+AHWC
+ARTH-A 226 Envisioning the Sacred: Survey of Medieval Art
+#Art#Asia#Design#Europe#History
+AHWC
+ARTH-A 231 The Age of Giants: Art in the Time of Leonardo and Michelangelo
+#Art#Europe#History
+AH
+ARTH-A 234 Renaissance Florence
+#Art#Europe#History
+AHWC
+ARTH-A 262 Introduction to Japanese Art and Culture
+#Art#Asia#Crafts#Culture#Design#History#Nature#Religion
+WC
+ARTH-A 280 The Art of the Comic Strip
+#Art#History#Pop Culture
+AH
+ARTH-A 281 Introduction to Islamic Art and Visual Culture
+#Art#Asia#Europe#History#Religion
+AHWC
+ARTH-A 282 The Art of the Comic Book
+#Art#Culture#Design#Pop Culture
+SH
+ARTH-A 290 How Architecture Works: The University as Machine
+#Art#Culture#Design#History#International
+SH
+ARTH-H 100 Introduction to Art History and Visual Culture
+#Art#Culture#Design#History#International#Movies#Performance#Photography#Pop Culture
+AH
+AST-A 100 The Solar System
+#Science
+NS
+AST-A 103 The Search for Life in the Universe
+#Science#Technology
+NS
+AST-A 105 Stars and Galaxies
+#Science
+NS
+AST-A 107 The Art of Astronomy: Images of the Universe
+#Art#Photography#Science#Technology
+NS
+AST-A 115 Birth and Death of the Universe
+#History#Science
+NS
+AST-A 221 General Astronomy I
+#Math#Science#Technology
+NS
+AST-A 222 General Astronomy II
+#Math#Science#Technology
+NS
+AST-X 150 Introduction to Research in Astronomy
+#Science
+NS
+BIOL-L 100 Humans and the Biological World
+#Animals#Science
+NS
+BIOL-L 104 Introductory Biology Lectures
+#Animals#Science
+NS
+BIOL-L 111 Foundations of Biology: Evolution and Diversity
+#Animals#Environment#Nature#Science
+NS
+BIOL-L 112 Foundations of Biology: Biological Mechanisms
+#Animals#Science
+NS
+BIOT-T 215 Diagnostic and Forensic Biotechnology Laboratory
+#Data Analysis#Forensics#Internet#Math#Science
+NS
+BIOT-T 270 Alcohol and Food: The Science of Fermentation
+#Food#Science
+NS
+BUS-F 260 Personal Finance
+#Business#Finance
+SH
+BUS-L 100 Personal Law
+#Legal Issues
+SH
+BUS-L 201 Legal Environment of Business
+#Business#Legal Issues
+SH
+BUS-L 293 Honors--Legal Environment of Business
+#Business#Legal Issues
+SH
+BUS-X 100 Introduction to Business
+#Business#Finance#Leadership#Management#Marketing
+SH
+CEUS-R 181 Introduction to Turkey: Language, Society and Culture
+#Asia#Culture#Europe#Government#History#Human Rights#Language#Legal Issues#Religion
+WC
+CEUS-R 191 Introduction to Central Eurasia
+#Asia#Communication#Culture#Europe#History#Human Behavior#Language#Movies
+SH
+CEUS-R 250 Introduction to the Ancient Near East
+#Art#Asia#Communication#Culture#Design#Europe#History#Human Behavior
+SHWC
+CEUS-R 260 The Great Wall of China
+#Asia#Communication#Culture#History#Human Behavior
+SH
+CEUS-R 270 The Civilization of Tibet
+#Art#Asia#Communication#Culture#History#Human Behavior#Language#Literature#Religion
+SHWC
+CEUS-R 290 Introduction to Central Asia, Mongolia, and Tibet
+#Asia#Communication#Culture#History#Human Behavior#Religion
+SHWC
+CEUS-R 292 Introduction to Turkic and Iranian Civilization
+#Asia#Communication#Conflict Resolution#Culture#History#Human Behavior#Language#Literature#Religion
+SHWC
+CEUS-R 294 Introduction to Hungary, Estonia and Finland
+#Culture#Europe#Government#History#Human Rights#Language#Religion
+WC
+CEUS-T 101 Introductory Finnish I
+#Culture#Europe#History#Language
+WL
+CEUS-T 102 Introductory Finnish II
+#Culture#Europe#History#Language
+WL
+CEUS-T 103 Introductory Estonian I
+#Culture#Europe#History#Language
+WL
+CEUS-T 104 Introductory Estonian II
+#Culture#Europe#History#Language
+WL
+CEUS-T 111 Introductory Uzbek I
+#Asia#Communication#Culture#Language#Literature#News#Writing
+WL
+CEUS-T 112 Introductory Uzbek II
+#Asia#Communication#Culture#Language#Literature#News#Writing
+WL
+CEUS-T 113 Introductory Kazakh I
+#Asia#Communication#Culture#Language#Literature#Movies#Writing
+WL
+CEUS-T 114 Introductory Kazakh II
+#Asia#Communication#Culture#Language#Literature#Writing
+WL
+CEUS-T 117 Introductory Turkmen I
+#Asia#Communication#Culture#Language#Literature
+WL
+CEUS-T 118 Introductory Turkmen II
+#Asia#Communication#Culture#Language#Literature#Writing
+WL
+CEUS-T 131 Introductory Uyghur I
+#Asia#Communication#Culture#Language#Literature#Writing
+WL
+CEUS-T 132 Introductory Uyghur II
+#Asia#Communication#Culture#Language#Literature#Writing
+WL
+CEUS-T 141 Introductory Hungarian I
+#Communication#Culture#Europe#Language#Literature#Writing
+WL
+CEUS-T 142 Introductory Hungarian II
+#Asia#Communication#Culture#Language#Literature
+WL
+CEUS-T 151 Introductory Persian I
+#Asia#Communication#Culture#Language#Literature#Media#Movies#Writing
+WL
+CEUS-T 152 Introductory Persian II
+#Asia#Communication#Culture#Language#Literature#Media#Movies#Writing
+WL
+CEUS-T 161 Introductory Mongolian I
+#Asia#Communication#Culture#Human Behavior#Language#Literature#Writing
+WL
+CEUS-T 162 Introductory Mongolian II
+#Asia#Communication#Culture#Human Behavior#Language#Literature#Writing
+WL
+CEUS-T 171 Introductory Tibetan I
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 172 Introductory Tibetan II
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 181 Introductory Turkish I
+#Asia#Communication#Culture#Europe#Language#Writing
+WL
+CEUS-T 182 Introductory Turkish II
+#Asia#Communication#Culture#Europe#Language#Media#News#Writing
+WL
+CEUS-T 183 Introductory Azerbaijani I
+#Asia#Communication#Culture#Europe#Language#Writing
+WL
+CEUS-T 184 Introductory Azerbaijani II
+#Asia#Communication#Culture#Europe#Language#Writing
+WL
+CEUS-T 201 Intermediate Finnish I
+#Communication#Culture#Europe#Language#Writing
+WL
+CEUS-T 202 Intermediate Finnish II
+#Communication#Culture#Europe#Language#Writing
+WL
+CEUS-T 203 Intermediate Estonian I
+#Communication#Culture#Europe#Language#Literature#Writing
+WL
+CEUS-T 204 Intermediate Estonian II
+#Communication#Culture#Europe#Language#Literature#Writing
+WL
+CEUS-T 211 Intermediate Uzbek I
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 212 Intermediate Uzbek II
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 213 Intermediate Kazakh I
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 214 Intermediate Kazakh II
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 217 Intermediate Turkmen I
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 218 Intermediate Turkmen II
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 231 Intermediate Uyghur I
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 232 Intermediate Uyghur II
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 241 Intermediate Hungarian I
+#Communication#Culture#Europe#Language#Literature#Writing
+WL
+CEUS-T 242 Intermediate Hungarian II
+#Communication#Culture#Europe#Language#Literature#Writing
+WL
+CEUS-T 251 Intermediate Persian I
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 252 Intermediate Persian II
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 261 Intermediate Mongolian I
+#Asia#Communication#Culture#Language#Literature#Writing
+WL
+CEUS-T 262 Intermediate Mongolian II
+#Asia#Communication#Culture#Language#Literature#Writing
+WL
+CEUS-T 271 Intermediate Tibetan I
+#Asia#Communication#Culture#Language#Literature#Writing
+WL
+CEUS-T 272 Intermediate Tibetan II
+#Asia#Communication#Culture#Language#Literature#Writing
+WL
+CEUS-T 281 Intermediate Turkish I
+#Asia#Communication#Culture#Language#Literature#Writing
+WL
+CEUS-T 282 Intermediate Turkish II
+#Asia#Communication#Culture#Language#Literature#Writing
+WL
+CEUS-T 283 Intermediate Azerbaijani I
+#Asia#Communication#Culture#Language#Writing
+WL
+CEUS-T 284 Intermediate Azerbaijani II
+#Asia#Communication#Culture#Language#Writing
+WL
+CHEM-C 100 The World as Chemistry
+#News#Science
+NS
+CHEM-C 101 Elementary Chemistry I
+#Science
+NS
+CHEM-C 102 Elementary Chemistry II
+#Science
+NS
+CHEM-C 103 Introduction to Chemical Principles
+#Science
+NS
+CHEM-C 114 Chemistry of Art
+#Art#Science
+NS
+CHEM-C 117 Principles of Chemistry and Biochemistry I
+#Science
+NS
+CHEM-C 118 Principles of Chemistry and Biochemistry II
+#Science
+NS
+CHEM-C 121 Elementary Chemistry Laboratory I
+#Science
+NS
+CHEM-C 122 Elementary Chemistry Laboratory II
+#Science
+NS
+CHEM-C 127 Principles of Chemistry and Biochemistry Laboratory
+#Science
+NS
+CJUS-P 100 Introduction to Criminal Justice
+#Conflict Resolution#Government#Human Rights#Legal Issues#Philosophy
+SH
+CJUS-P 200 Theories of Crime and Deviance
+#Human Behavior#Philosophy#Science
+SH
+CJUS-P 245 Social Justice and the Justice System
+#Gender and LGBTQ+#Helping People#Human Rights#Legal Issues
+SH
+CLAS-C 101 Ancient Greek Culture
+#Art#Culture#Design#Europe#History#Literature
+AHWC
+CLAS-C 102 Roman Culture
+#Art#Culture#Design#Europe#History#Human Rights#Literature
+AHWC
+CLAS-C 205 Classical Mythology
+#Literature
+AHWC
+CLAS-C 206 Classical Art and Archaeology
+#Art#Culture#Design#Europe#History
+AHWC
+CLAS-C 211 Ancient Athletics
+#Culture#Europe#History#International#Sports
+AHWC
+CLAS-C 212 Seven Wonders of the Ancient World
+#Art#Culture#Design#Europe#History
+AHWC
+CLAS-G 100 Elementary Greek I
+#Asia#Communication#Culture#Language#Writing
+WL
+CLAS-G 150 Elementary Greek II
+#Communication#Culture#Europe#Language#Literature#Writing
+WL
+CLAS-G 200 Intermediate Greek
+#Communication#Culture#Europe#Language#Literature#Writing
+WL
+CLAS-G 250 Introduction to Attic Greek Prose and Poetry
+#Communication#Language#Literature
+WL
+CLAS-L 100 Elementary Latin I
+#History#Language#Literature#Philosophy
+WL
+CLAS-L 103 Intermediate Latin
+#Culture#History#Human Behavior#Language#Literature
+WL
+CLAS-L 150 Elementary Latin II
+#Culture#History#Language#Literature#Philosophy
+WL
+CLAS-L 200 Second-Year Latin I
+#Culture#History#Language#Literature#Philosophy
+WL
+CLAS-L 250 Second-Year Latin II
+#Culture#History#Language#Literature
+WL
+CLLC-L 110 Text, Image, Sound
+#Communication#Journalism#Media#Movies#Music#News#Technology#Writing
+AH
+CLLC-L 120 Politics, Identity, and Resistance
+#Conflict Resolution#Culture#Government#History#Human Rights#Legal Issues
+SH
+CLLC-L 130 Science and the Universe
+#Environment#Science
+NS
+CLLC-L 210 Culture, the Arts, and Society
+#Art#Culture#Design
+AH
+CLLC-L 220 Uses of the Past
+#Culture#History#Human Behavior#Philosophy
+SH
+CLLC-L 230 Life-Concepts and Issues
+#Environment#Philosophy
+NS
+CMLT-C 110 Writing the World
+#Literature
+EC
+CMLT-C 111 Reading the World
+#Culture#International#Literature#Writing
+AH
+CMLT-C 147 Images of the Self: East and West
+#Asia#Culture#Literature#North America
+AHWC
+CMLT-C 151 Introduction to Popular Culture
+#Communication#Journalism#Literature#Media#Movies#Music#News#Pop Culture#Writing
+AH
+CMLT-C 155 Culture and the Modern Experience: An Interdisciplinary and International Approach
+#Art#Crafts#Culture#Design#Fashion#International#Literature#Movies#Music#Performance#Photography#Pop Culture
+AH
+CMLT-C 200 Honors Seminar
+#Communication#History#Literature#Philosophy
+AH
+CMLT-C 205 Comparative Literary Analysis
+#Communication#Culture#Journalism#Literature#Media#Writing
+AH
+CMLT-C 216 Science Fiction, Fantasy, and the Western Tradition
+#Communication#Literature#Media#Pop Culture#Writing
+AH
+CMLT-C 217 Detective, Mystery, and Horror Literature
+#Communication#Literature#Movies#Writing
+AH
+CMLT-C 219 Romance and the Western Tradition
+#Literature
+AH
+CMLT-C 251 Lyrics and Popular Song
+#Literature#Music#Performance#Pop Culture
+AH
+CMLT-C 252 Literary and Television Genres
+#Literature#Movies#Pop Culture#Writing
+AH
+CMLT-C 255 Modern Literature and Other Arts: An Introduction
+#Art#Literature#Music
+AH
+CMLT-C 256 Literature and the Other Arts: 1870-1950
+#Art#Europe#History#Literature#Music#North America
+AH
+CMLT-C 257 Asian Literature and Other Arts
+#Art#Asia#Culture#Literature
+AHWC
+CMLT-C 261 Introduction to African Literature
+#Africa#Culture#Language#Literature#Movies
+AHWC
+CMLT-C 262 Cross-Cultural Encounters
+#Art#Communication#Culture#Design#International#Literature#Movies#Music#Performance
+AHWC
+CMLT-C 291 Studies in Non-Western Film
+#Africa#Asia#Culture#International#Literature#Movies
+AHWC
+COGS-Q 101 Introduction to Cognitive Science
+#Human Behavior#Philosophy#Science#Technology
+NM
+COGS-Q 240 Philosophical Foundations of the Cognitive and Information Sciences
+#Business#Communication#Data Analysis#Math#Philosophy#Programming#Science#Technology#Writing
+AH
+COLL-C 103 Critical Approaches to the Arts and Humanities
+#Art#Communication#Crafts#Design#Fashion#Human Behavior#Journalism#Literature#Media#Movies#Music#Performance#Philosophy#Photography#Pop Culture#Writing
+AH
+COLL-C 104 Critical Approaches to the Social and Historical Studies
+#Culture#History#Human Behavior#Philosophy
+SH
+COLL-C 105 Critical Approaches to the Natural and Mathematical Sciences
+#Math#Science
+NS
+COLL-S 103 Freshman Seminar in Arts and Humanities
+#Art#Communication#Crafts#Culture#Design#Fashion#Human Behavior#Literature#Movies#Music#Performance#Photography#Writing
+AH
+COLL-S 104 Freshman Seminar in Social and Historical Studies
+#Culture#History#Human Behavior#Philosophy
+SH
+COLL-S 105 Freshman Seminar in Natural and Mathematical Sciences
+#Math#Nature#Science
+NS
+CSCI-A 110 Introduction to Computers and Computing
+#Data Analysis#Internet#Technology
+NM
+CSCI-A 201 Introduction to Programming I
+#Programming
+NM
+CSCI-A 202 Introduction to Programming II
+#Programming
+NM
+CSCI-C 102 Great Ideas in Computing
+#Pop Culture#Technology
+NM
+CSCI-C 200 Introduction to Computers and Programming
+#Data Analysis#Internet#Programming#Security#Technology#Video Games
+NM
+CSCI-C 211 Introduction to Computer Science
+#Programming
+NM
+CSCI-C 212 Introduction to Software Systems
+#Programming
+NM
+CSCI-H 211 Introduction to Computer Science
+#Programming
+NM
+CSCI-H 212 Introduction to Software Systems, Honors
+#Programming
+NM
+EALC-C 101 Elementary Chinese I
+#Asia#Culture#History#Language#Literature
+WL
+EALC-C 102 Elementary Chinese II
+#Asia#Culture#History#Language#Literature
+WL
+EALC-C 103 Advanced Elementary Chinese I
+#Asia#Culture#History#Language#Literature
+WL
+EALC-C 104 Advanced Elementary Chinese II
+#Asia#Culture#History#Language#Literature
+WL
+EALC-C 201 Second-Year Chinese I
+#Asia#Culture#History#Language#Literature
+WL
+EALC-C 202 Second-Year Chinese II
+#Asia#Culture#History#Language#Literature
+WL
+EALC-E 100 East Asia: An Introduction
+#Asia#Culture#History
+AHWC
+EALC-E 110 Popular Culture in East Asia
+#Asia#Culture#History
+AHWC
+EALC-E 111 War and Violence in East Asia
+#Asia#Conflict Resolution#Culture#Government#History#Human Rights#International
+WCSH
+EALC-E 115 Romancing East Asia: Literatures of Love from Early Times to the Present
+#Asia#Culture#History#International#Language#Literature
+AHWC
+EALC-E 170 Contemporary Chinese Society
+#Asia#Culture#History
+SH
+EALC-E 190 The Rise of China: Challenges and Opportunities for East Asia
+#Asia#Culture#History#International
+SHWC
+EALC-E 203 Issues in East Asian Cultural History (Topic: Samurai: Culture and Violence in Premodern Japan)
+#Asia#Conflict Resolution#Culture#History#Language#Literature
+SHWC
+EALC-E 204 Issues in East Asian Society (Topic: Business, Government, and Finance in East Asia)
+#Asia#Business#Culture#Finance#Government#History
+SH
+EALC-E 204 Issues in East Asian Society (Topic: Linguistic Diversity in East Asia)
+#Asia#Culture#History#Language#Literature
+WC
+EALC-E 231 Japan: The Living Tradition
+#Art#Asia#Literature#Music#Performance#Religion
+WC
+EALC-E 233 Survey of Korean Civilization
+#Asia#Culture#Government#History
+WCSH
+EALC-E 237 Samurai: Culture and Violence in Pre-Modern Japan
+#Asia#Culture#Literature#Religion
+SHWC
+EALC-E 251 Traditional East Asian Civilizations
+#Asia#Culture#History#Human Behavior#Language#Literature
+SHWC
+EALC-E 270 Japanese Language and Society
+#Asia#Communication#Culture#Language
+WC
+EALC-E 271 Modern and Contemporary Japanese Culture
+#Asia#Culture#History#Literature#Movies#Performance#Pop Culture
+WCAH
+EALC-J 101 Elementary Japanese I
+#Asia#Culture#History#Language#Literature
+WL
+EALC-J 102 Elementary Japanese II
+#Asia#Culture#History#Language#Literature
+WL
+EALC-J 201 Second-Year Japanese I
+#Asia#Culture#History#Language#Literature
+WL
+EALC-J 202 Second-Year Japanese II
+#Asia#Culture#History#Language#Literature
+WL
+EALC-K 101 Elementary Korean I
+#Asia#Culture#History#Language
+WL
+EALC-K 102 Elementary Korean II
+#Asia#Culture#History#Language
+WL
+EALC-K 201 Second-Year Korean I
+#Asia#Culture#History#Language
+WL
+EALC-K 202 Second-Year Korean II
+#Asia#Culture#History#Language
+WL
+EAS-E 103 Earth Science: Materials and Processes
+#Environment#Government#Science#Security#Sustainability
+NS
+EAS-E 104 Evolution of the Earth
+#Animals#Environment#International#Nature#Science
+NS
+EAS-E 105 Earth: Our Habitable Planet
+#Environment#Government#Helping People#International#Science#Security#Sustainability
+NS
+EAS-E 114 Dinosaurs and Their Relatives
+#Animals#History#Nature#Science
+NS
+EAS-E 116 Our Planet and Its Future
+#Environment#Science
+NS
+EAS-E 118 Sustainability in Water Resources
+#Animals#Culture#Environment#Food#Legal Issues#Nature#North America#Sustainability
+NS
+EAS-E 121 Origin and Evolution of Mars and Rocky Planetary Bodies
+#Environment#History#Science
+NS
+EAS-E 122 Earth's dynamic Atmosphere
+#Animals#Data Analysis#Environment#Human Behavior#Internet#Math#Nature#Science#Sustainability
+NS
+EAS-E 131 Oceans and Our Global Environment
+#Animals#Environment#Government#Legal Issues#Nature#Science#Security#Sustainability
+NS
+EAS-E 138 Geology of State and National Parks Revealed
+#Animals#Environment#Government#Legal Issues#Nature#Science#Sustainability
+NS
+EAS-E 141 Earthquakes and Volcanoes
+#Environment#Science
+NS
+EAS-E 144 Extreme Weather and Its Impacts
+#Environment#Human Behavior#Nature
+NS
+EAS-E 171 Environmental Geology in the Twenty-first Century
+#Data Analysis#Environment#International#Nature#Science#Sustainability
+NS
+EAS-E 188 Volcanoes of the Sierra Nevada
+#Environment#Science
+NS
+ECON-E 113 Capitalism and Democracy
+#Government#Human Rights#Leadership
+SH
+ECON-E 115 Everyday Economics
+#Finance#Government#Math
+SH
+ECON-E 201 Introduction to Microeconomics
+#Business#Data Analysis#Finance#Government#Human Behavior#Legal Issues#Marketing
+SH
+ECON-E 202 Introduction to Macroeconomics
+#Business#Data Analysis#Finance#Government#Helping People#Human Behavior#Legal Issues
+SH
+ECON-S 201 Introduction to Microeconomics: Honors
+#Business#Data Analysis#Finance#Government#Legal Issues#Marketing
+SH
+ECON-S 202 Introduction to Macroeconomics: Honors
+#Business#Data Analysis#Finance#Government#Helping People#Human Behavior#Legal Issues
+SH
+EDUC-F 200 Examining Self as a Teacher
+#Children#Communication#Philosophy#Teaching
+SH
+EDUC-G 203 Communication for Youth-Serving Professionals
+#Children#Counseling#Helping People#Teaching
+SH
+EDUC-G 204 Asian American Mental Health
+#Asia#Children#Communication#Counseling#Culture#Helping People#Human Behavior#North America#Philosophy#Teaching
+SH
+EDUC-H 205 Introduction to Educational Thought
+#Children#Helping People#Philosophy#Teaching
+SH
+EDUC-K 205 Introduction to Exceptional Children
+#Children#Communication#Counseling#Helping People#Teaching
+SH
+EDUC-L 239 Language and Learning
+#Children#Communication#Counseling#Culture#Helping People#Human Behavior#Language#Philosophy#Teaching
+SH
+EDUC-M 200 Artifacts, Museums, and Everyday Life
+#Art#Children#Communication#Culture#History#Literature#Media#Teaching
+AH
+EDUC-M 235 Art, Interdisciplinarity, and Education
+#Art
+AH
+EDUC-P 248 The Elementary School Child: Physical, Emotional, and Social Development
+#Children#Communication#Counseling#Culture#Helping People#Human Behavior#Philosophy#Teaching
+SH
+EDUC-P 250 General Educational Psychology
+#Children#Communication#Counseling#Helping People#Human Behavior#Philosophy#Teaching
+SH
+EDUC-Q 200 Introduction to Scientific Inquiry
+#Children#Data Analysis#Science#Teaching
+NS
+ENG-G 208 World Englishes
+#Culture#International#Language
+WC
+ENG-L 111 Discovering Literature
+#Literature
+AH
+ENG-L 112 Experiencing World Cultures through Literatures in English
+#Culture#Literature
+AH
+ENG-L 203 Introduction to Drama
+#Literature#Writing
+AH
+ENG-L 204 Introduction to Fiction
+#Literature#Writing
+AH
+ENG-L 205 Introduction to Poetry
+#Literature#Writing
+AH
+ENG-L 206 Introduction to Prose (Excluding Fiction)
+#Literature#Writing
+AH
+ENG-L 207 Women and Literature
+#Gender and LGBTQ+#Literature#Writing
+AH
+ENG-L 210 Studies in Popular Literature and Mass Media
+#Literature#Media#Movies#Pop Culture#Writing
+AH
+ENG-L 214 Literary Masterpieces II
+#Literature#Writing
+AH
+ENG-L 220 Introduction to Shakespeare
+#Literature
+AH
+ENG-L 223 Introduction to Ethnic American Literature
+#Culture#International#Literature
+AH
+ENG-L 224 Introduction to World Literatures in English
+#Culture#Literature
+AHWC
+ENG-L 230 Introduction to Science Fiction
+#Literature
+AH
+ENG-L 240 Literature and Public Life (Topic: Countering Hate: Community-based Democracy in Action)
+#Communication#Conflict Resolution#Helping People#Human Behavior#Human Rights#Literature#Media#News#Writing
+AH
+ENG-L 240 Literature and Public Life (Topic: Prison Writing)
+#Human Rights#Journalism#Literature#Writing
+AH
+ENG-L 249 Representations of Gender and Sexuality
+#Culture#Gender and LGBTQ+#Literature
+AH
+ENG-L 260 Introduction to the Advanced Study of Literature
+#Language#Literature#Writing
+AH
+ENG-L 295 American Film Culture
+#Communication#Culture#Literature#Media#Movies#North America
+AH
+ENG-R 209 Topics in Rhetoric and Public Culture
+#Communication#Culture#Gender and LGBTQ+#Government#Human Rights#Media
+AH
+ENG-R 212 Communicating Sustainability
+#Animals#Communication#Culture#Environment#Food#Helping People#Human Behavior#Journalism#Media#Nature#North America#Performance#Sustainability
+SH
+ENG-R 222 Democratic Deliberation
+#Communication#Conflict Resolution#Culture#Government#History#Human Rights#Journalism#Legal Issues#Media#News#North America#Writing
+AH
+ENG-R 228 Argumentation and Public Advocacy
+#Conflict Resolution#Gender and LGBTQ+#Government#History#Legal Issues#Writing
+AH
+ENG-W 103 Introductory Creative Writing
+#Literature#Writing
+AH
+ENG-W 131 Elementary Composition
+#Language
+EC
+ENG-W 170 Introduction to Argumentative Writing (Topic: Projects in Reading and Writing)
+#Language
+EC
+ENG-W 171 Projects in Digital Literacy
+#Communication#Internet#Writing
+EC
+ENGR-E 101 Innovation and Design
+#Culture#Programming#Science#Technology
+NM
+EURO-E 100 Beginning Modern Greek I
+#Culture#Europe#History#Language
+WL
+EURO-E 150 Beginning Modern Greek II
+#Culture#Europe#Language
+WL
+EURO-E 200 Intermediate Modern Greek I
+#Culture#Europe#Language
+WL
+EURO-E 205 Introduction to Modern Greek Culture
+#Culture#Europe
+WC
+EURO-E 250 Intermediate Modern Greek II: An Introduction to Modern Greek Culture
+#Culture#Europe#History#Language
+WL
+EURO-W 205 Religion in the European Union
+#Culture#Europe#Religion
+SHWC
+FOLK-E 151 Global Pop Music
+#Art#Asia#Culture#Music#Pop Culture
+AHWC
+FOLK-E 250 Ethnomusicology and the Humanities
+#Culture#History#Language#Literature#Music#Performance#Philosophy#Religion
+AH
+FOLK-E 251 Ethnomusicology and the Social Sciences
+#Culture#Human Behavior#Music
+SH
+FOLK-E 295 Survey of Hip Hop
+#Culture#Music
+AH
+FOLK-F 101 Introduction to Folklore
+#Art#Communication#Crafts#History#Human Behavior#Literature
+AH
+FOLK-F 111 World Music and Culture
+#Culture#International#Music
+AHWC
+FOLK-F 121 World Arts and Cultures
+#Art#Communication#Culture#Fashion#History#Human Behavior#Language#Literature#Music
+SHWC
+FOLK-F 131 Folklore in the United States
+#Art#Communication#Culture#Human Behavior#North America
+AH
+FOLK-F 141 Urban Legend
+#Culture#Human Behavior#Literature#North America
+AH
+FOLK-F 210 Myth, Legend, and Popular Science
+#Culture#History#Human Behavior#Science
+SH
+FOLK-F 215 Folklore, Health, and Illness
+#Fitness#Healthcare#Helping People#History#Human Behavior#International#Nutrition#Religion
+SH
+FOLK-F 225 Forms of Commemoration
+#Communication#Culture#Human Behavior
+AH
+FOLK-F 230 Music in Social Movements
+#Conflict Resolution#Culture#Helping People#History#Human Behavior#Human Rights#Legal Issues#Music#Performance
+SH
+FOLK-F 252 Folklore and the Humanities
+#Communication#Culture#History#Human Behavior#Literature#Religion
+AH
+FOLK-F 253 Folklore and the Social Sciences
+#Communication#Culture#History#Human Behavior#Literature
+SH
+FOLK-F 256 The Supernatural and Folklore
+#Culture#Human Behavior#Philosophy#Religion
+AH
+FRIT-F 100 Elementary French I
+#Culture#Europe#Language
+WL
+FRIT-F 115 Accelerated Elementary French
+#Culture#Europe#Language
+WL
+FRIT-F 150 Elementary French II: Language and Culture
+#Culture#Europe#Language
+WL
+FRIT-F 200 Second-Year French I: Language and Culture
+#Culture#Europe#Language
+WL
+FRIT-F 225 French Culture: Topics
+#Art#Culture#Europe#History#Literature#Movies#Music#Performance
+WCAH
+FRIT-F 226 French Society: Topics
+#Culture#Europe#History#Language
+WCSH
+FRIT-F 227 French Style: Topics (Topic: French Food, Fashion and Flair)
+#Culture#Europe#Fashion#Food#Gender and LGBTQ+#History#International#Pop Culture
+WCAH
+FRIT-F 250 Second-Year French II: Language and Culture
+#Culture#Europe#Language
+WL
+FRIT-F 265 Accelerated Second-Year French
+#Culture#Europe#Language
+WL
+FRIT-M 100 Elementary Italian I
+#Culture#Europe#Language
+WL
+FRIT-M 110 Italian Language through Opera
+#Culture#Europe#Language#Music
+WL
+FRIT-M 112 Italian Through Music
+#Communication#Culture#Europe#Language#Music#Writing
+WL
+FRIT-M 115 Accelerated Elementary Italian
+#Culture#Europe#Language
+WL
+FRIT-M 150 Elementary Italian II
+#Culture#Europe#Language
+WL
+FRIT-M 200 Intermediate Italian I
+#Culture#Europe#Language
+WL
+FRIT-M 215 Accelerated Second-Year Italian
+#Culture#Europe#Language
+WL
+FRIT-M 222 Topics in Italian Culture
+#Culture#Europe
+AHWC
+FRIT-M 234 Florence in Florence
+#Art#Culture#Europe#History#Literature
+AHWC
+FRIT-M 236 Dante's Divine Comedy
+#Culture#Europe
+AHWC
+FRIT-M 238 Visual, Musical, and Literary Culture in Italy
+#Art#Culture#Europe#Literature#Music
+AHWC
+FRIT-M 250 Intermediate Italian II
+#Culture#Europe#Language
+WL
+GEOG-G 107 Physical Systems of the Environment
+#Environment#Science
+NS
+GEOG-G 109 Weather and Climate
+#Environment#Nature#Science
+NS
+GEOG-G 110 Human Geography in a Changing World
+#Business#Communication#Culture#Environment#Food#History#Human Behavior#International#Language
+SH
+GEOG-G 120 Regions of the World
+#Business#Communication#Conflict Resolution#Culture#Environment#Food#Government#History#Human Behavior#International#Legal Issues
+SH
+GEOG-G 185 Environmental Change: The End of the World as We Know It?
+#Environment#Science
+NS
+GEOG-G 208 Environment and Society
+#Environment#Food#Human Behavior#Science#Sustainability
+NS
+GEOG-G 237 Mapping our World: From Mercator to Mashups
+#Africa#Asia#Central America#Culture#Environment#Europe#Government#Human Behavior#International#North America#South America#Sustainability#Travel
+NS
+GER-E 121 An Introduction to German Culture
+#Culture#Europe#History#Language#Literature#Religion#Sports
+WC
+GER-E 122 Fairy Tales from the Grimm Brothers to Today
+#Culture#Europe#History#International
+WC
+GER-E 141 Amsterdam
+#Art#Culture#Design#Europe#Government#History
+WC
+GER-E 162 Scandinavian Culture
+#Art#Crafts#Culture#Design#Europe#Fashion#History#Movies#Music#Performance#Photography
+WC
+GER-E 211 Global Germany
+#Culture#Europe#Government#History#International
+SH
+GER-E 212 Multicultural Germany
+#Art#Culture#Europe#Government#History#Human Behavior#International#Literature
+AH
+GER-G 100 Beginning German I
+#Culture#Europe#Language
+WL
+GER-G 105 Accelerated First-Year German
+#Culture#Europe#Language
+WL
+GER-G 150 Beginning German II
+#Culture#Europe#Language
+WL
+GER-G 200 Intermediate German I
+#Culture#Europe#Language
+WL
+GER-G 250 Intermediate German II
+#Culture#Europe#Language
+WL
+GER-K 100 Beginning Norwegian I
+#Culture#Europe#Language
+WL
+GER-K 150 Beginning Norwegian II
+#Culture#Europe#Language
+WL
+GER-K 200 Intermediate Norwegian I
+#Culture#Europe#Language
+WL
+GER-K 250 Intermediate Norwegian II
+#Culture#Europe#Language
+WL
+GER-N 100 Intensive Dutch I
+#Culture#Europe#Language
+WL
+GER-N 150 Intensive Dutch II
+#Culture#Europe#Language
+WL
+GER-N 200 Dutch Reading, Composition, and Conversation I
+#Culture#Europe#Language
+WL
+GER-N 250 Dutch Reading, Composition, and Conversation II
+#Culture#Europe#Language
+WL
+GER-Y 100 Beginning Yiddish I
+#Culture#Europe#Language
+WL
+GER-Y 150 Beginning Yiddish II
+#Culture#Europe#Language
+WL
+GER-Y 200 Intermediate Yiddish I
+#Culture#Europe#Language
+WL
+GER-Y 250 Intermediate Yiddish II
+#Culture#Europe#Language
+WL
+GNDR-G 101 Gender, Culture, and Society
+#Culture#Gender and LGBTQ+#History#Human Behavior
+AH
+GNDR-G 105 Sex, Gender, and the Body
+#Communication#Culture#Gender and LGBTQ+#History#Human Behavior#Philosophy
+SH
+GNDR-G 215 Sex and Gender in Cross-Cultural Perspective
+#Art#Communication#Conflict Resolution#Culture#Fashion#Gender and LGBTQ+#Human Behavior#Journalism#Literature#Media#Movies#Music#Performance#Philosophy#Pop Culture
+SH
+GNDR-G 225 Gender, Sexuality, and Popular Culture
+#Culture#Gender and LGBTQ+#Journalism#Literature#Media#Movies#Music
+AH
+HISP-P 100 Elementary Portuguese I
+#Culture#Europe#Language
+WL
+HISP-P 115 Portuguese for Doing Business in Brazil
+#Business#Culture#Language#South America
+WL
+HISP-P 135 Intensive Portuguese
+#Culture#Europe#Language
+WL
+HISP-P 150 Elementary Portuguese II
+#Culture#Europe#Language
+WL
+HISP-P 200 Second-Year Portuguese I
+#Culture#Europe#Language
+WL
+HISP-P 250 Second-Year Portuguese II
+#Culture#Europe#Language
+WL
+HISP-P 290 Global Portuguese: Arts and Culture
+#Art#Culture#Europe#History#Movies#Music#Performance
+AHWC
+HISP-S 100 Elementary Spanish I
+#Culture#Europe#Language
+WL
+HISP-S 105 First-Year Spanish
+#Culture#Europe#Language
+WL
+HISP-S 150 Elementary Spanish II
+#Culture#Europe#Language
+WL
+HISP-S 200 Second-Year Spanish I
+#Culture#Europe#Language
+WL
+HISP-S 250 Second-Year Spanish II
+#Culture#Europe#Language
+WL
+HISP-S 251 Intermediate Spanish for Heritage Speakers
+#Culture#History#Language
+WL
+HIST-A 112 American Diversity: A History
+#Conflict Resolution#Culture#Gender and LGBTQ+#Government#History#Human Behavior#Human Rights#Legal Issues#North America#Religion
+SH
+HIST-A 200 Issues in United States History
+#Communication#Culture#History#Human Behavior
+SH
+HIST-A 205 Asian American History
+#Asia#Communication#Conflict Resolution#Culture#Government#History#Human Behavior#Human Rights#Legal Issues#North America
+SH
+HIST-A 207 Introduction to Native American History
+#Conflict Resolution#Culture#History#Human Rights#Legal Issues#North America
+SH
+HIST-A 222 Law in America
+#Conflict Resolution#Culture#Government#Helping People#History#Human Behavior#Human Rights#Legal Issues#Literature#Movies#Philosophy#Religion
+SH
+HIST-A 225 Elvis, Dylan, and Post-War America
+#Conflict Resolution#Culture#Gender and LGBTQ+#Government#History#Human Behavior#Legal Issues#Literature#Philosophy#Religion
+SH
+HIST-A 235 History of American Empire
+#Conflict Resolution#Culture#Government#History#International#North America
+SHWC
+HIST-A 240 Get Me Out! The History of Birth
+#Children#Counseling#Culture#Fitness#Food#Gender and LGBTQ+#History#Human Behavior#Human Rights#Legal Issues#North America#Nutrition
+SH
+HIST-A 263 Mammy to Michelle: Black Women's History
+#Gender and LGBTQ+#History#Human Rights#North America
+SH
+HIST-A 270 U.S. Labor History
+#Conflict Resolution#Government#History#Human Rights#Legal Issues#North America
+SH
+HIST-B 200 Issues in Western European History
+#Culture#Europe#History
+SHWC
+HIST-B 204 Medieval Heroes
+#Europe#History
+SHWC
+HIST-B 215 Religion, Magic and Witchcraft, 1000-2000
+#Culture#Europe#History#North America#Religion
+SHWC
+HIST-B 226 The Mafia and Other Italian Mysteries
+#Conflict Resolution#Culture#Europe#History#Legal Issues#North America
+SHWC
+HIST-B 270 Inside Nazi Germany
+#Culture#Europe#Government#History#Human Rights
+SHWC
+HIST-C 200 Issues in Ancient History
+#Culture#Environment#History#Human Behavior#International
+SHWC
+HIST-C 210 History of the Modern Middle East
+#Asia#Communication#Conflict Resolution#Culture#Europe#Government#History#Legal Issues#Religion
+SHWC
+HIST-C 215 Sparta at War
+#Culture#Europe#History
+SHWC
+HIST-C 220 Ancient Leaders and Leadership
+#Conflict Resolution#Culture#Europe#Government#History
+SHWC
+HIST-C 230 Israel: History, Society, Culture
+#Culture#History#International#Religion
+SHWC
+HIST-D 102 Icon and Axe: Russia from Earliest Times to 1861
+#Asia#Conflict Resolution#Culture#Europe#Government#History#Legal Issues
+SH
+HIST-D 103 The Making of Modern Russia
+#Asia#Culture#Europe#Government#History#Leadership#Legal Issues
+SHWC
+HIST-D 200 Issues in Russian/East European History
+#Asia#Culture#Europe#History
+SHWC
+HIST-D 201 Democratic Revolutions since 1980
+#Africa#Asia#Central America#Conflict Resolution#Culture#Europe#Government#History#Human Behavior#Human Rights#Legal Issues#South America
+SHWC
+HIST-E 200 Issues in African History
+#Africa#Culture#History
+SHWC
+HIST-F 200 Issues in Latin American History
+#Central America#Culture#History#South America
+SHWC
+HIST-G 101 East Asia in World History
+#Asia#Culture#History#Human Behavior
+SHWC
+HIST-G 200 Issues in Asian History
+#Asia#Culture#History
+SHWC
+HIST-H 101 The World in the Twentieth Century I
+#Culture#History#International
+SHWC
+HIST-H 102 The World in the Twentieth Century II
+#Culture#History#International
+SHWC
+HIST-H 103 Europe: Renaissance to Napoleon
+#Conflict Resolution#Culture#Europe#Government#History#Human Behavior#Human Rights#Legal Issues#North America#Philosophy#Religion
+SHWC
+HIST-H 104 Europe: Napoleon to the Present
+#Conflict Resolution#Culture#Europe#Government#History#Human Behavior#Human Rights#Legal Issues
+SHWC
+HIST-H 105 American History I
+#Conflict Resolution#Culture#Government#History#Human Behavior#Human Rights#Legal Issues
+SH
+HIST-H 106 American History II
+#Conflict Resolution#Culture#Government#History#Human Behavior#Human Rights#Legal Issues
+SH
+HIST-H 205 Ancient Civilization
+#Conflict Resolution#Culture#History#Human Behavior#Philosophy#Religion
+SHWC
+HIST-H 206 Medieval Civilization
+#Culture#Europe#History#Human Behavior#Literature#Philosophy#Religion
+SHWC
+HIST-H 210 Britain's Road to Modernity
+#Culture#Europe#Government#History#Human Behavior#Philosophy
+SHWC
+HIST-H 212 Latin American Culture and Civilization II
+#Africa#Central America#Conflict Resolution#Culture#Europe#Government#History#Human Behavior#South America
+SHWC
+HIST-H 213 The Black Death
+#Culture#Environment#Europe#Food#History#Human Behavior#Nature#Philosophy#Religion
+SHWC
+HIST-H 227 African Civilizations
+#Africa#Art#Culture#Environment#Food#History#Human Behavior#Literature#Music#Performance#Philosophy#Religion
+SHWC
+HIST-H 239 Blood and Guts! Introduction to the History of Western Medicine
+#Conflict Resolution#Culture#Europe#Healthcare#History#Human Behavior#North America#Philosophy#Rehabilitation
+SHWC
+HIST-H 251 Introduction to Jewish History: From the Bible to Spanish Expulsion
+#Conflict Resolution#Culture#Europe#Government#History#Human Behavior#Religion
+SHWC
+HIST-H 252 Introduction to Jewish History: From Spanish Expulsion to the Present
+#Conflict Resolution#Culture#Government#History#Human Behavior#Human Rights#International#Legal Issues#Philosophy#Religion
+SHWC
+HIST-H 260 History of Women in the United States
+#Culture#Gender and LGBTQ+#History#Human Rights#Legal Issues#North America
+SH
+HIST-H 270 What Is History?
+#Culture#History
+SH
+HIST-W 130 The Century of Women
+#Gender and LGBTQ+#History
+SH
+HIST-W 200 Issues in World History
+#Culture#History#Human Behavior#International
+SHWC
+HIST-W 201 Slavery and Unfreedom in World History
+#Africa#Asia#Central America#Culture#Europe#History#Human Rights#Legal Issues#North America#South America
+SHWC
+HIST-W 203 World War I: Global War
+#Culture#Europe#Government#History#Human Behavior#Human Rights
+SHWC
+HIST-W 210 Global Soccer
+#Culture#History#International#Performance#Pop Culture#Sports
+WCSH
+HIST-W 220 The Social History of War
+#Conflict Resolution#Culture#Government#History#Human Behavior#Human Rights#Literature
+SHWC
+HIST-W 225 The Rich
+#Culture#History
+SH
+HON-H 211 Ideas and Experience I
+#Literature
+AH
+HON-H 212 Ideas and Experience II
+#Communication#International#Language#Literature#Philosophy#Religion#Writing
+SH
+HON-H 232 Meaningful Writing
+#Literature#Writing
+AH
+HON-H 233 Great Authors, Composers, and Artists
+#Art#Literature#Music
+AH
+HON-H 234 Literature of Time and Place
+#Literature
+AH
+HON-H 234 Literature of Time and Place (Topic: Germany's 'Others': Nation and Exclusion)
+#Culture#Europe#Literature
+WC
+HON-H 236 Use of Force
+#Conflict Resolution#Culture#Government#History#Human Behavior#Human Rights#International#Legal Issues#Philosophy
+SH
+HON-H 237 Law and Society
+#Communication#Conflict Resolution#Culture#Government#Helping People#History#Human Behavior#Human Rights#Legal Issues#Philosophy
+SH
+HON-H 238 Politics and Communication
+#Communication#Culture#Government#History#Human Behavior#Legal Issues#Media
+SH
+HON-H 240 Science and Society
+#Communication#Culture#Helping People#History#Human Behavior#Science
+SH
+HON-H 241 Scientific Uncertainty and Discovery
+#Science
+NS
+HON-H 251 Hutton Honors Study Abroad
+#Conflict Resolution#Culture#Europe#Government#Human Rights#Language#Legal Issues
+WC
+HPSC-X 102 Revolutions in Science: Plato to NATO
+#History#Philosophy#Science
+SHWC
+HPSC-X 104 Science and Culture
+#Art#Culture#Food#Gender and LGBTQ+#History#Human Behavior#Religion#Science#Sports
+SH
+HPSC-X 111 Ethical Issues in Biological and Medical Sciences
+#Healthcare#Human Behavior#Legal Issues#Philosophy#Science
+AH
+HPSC-X 123 Perspectives on Science: Social and Historical
+#Communication#Culture#History#Human Behavior#Science
+SH
+HPSC-X 200 Scientific Reasoning
+#Healthcare#Human Behavior#News#Science
+NM
+HPSC-X 205 Introduction to Medical History
+#Culture#Government#Healthcare#Helping People#History#Human Behavior#Legal Issues#Philosophy#Science#Technology
+SH
+HPSC-X 207 The Occult in Western Civilization
+#Culture#History#Human Behavior#Philosophy#Religion
+WC
+HPSC-X 245 The Senses: Body, Brain, Environment
+#Philosophy#Science
+NS
+INFO-H 101 Introduction to Informatics--Honors
+#Data Analysis#Internet#Technology
+NM
+INFO-I 101 Introduction to Informatics
+#Data Analysis#Internet#Technology
+NM
+INFO-I 123 Data Fluency
+#Data Analysis#News#Technology
+NM
+INFO-I 216 Humans, Animals, and Artificial Intelligence
+#Animals#Science#Technology
+NS
+INFO-I 222 The Information Society
+#Business#Communication#Culture#Europe#History#Human Behavior#Internet#Media#News#North America#Science#Technology
+SH
+INST-H 100 Beginning Hindi I
+#Asia#Culture#Language
+WL
+INST-H 150 Elementary Hindi II
+#Asia#Culture#Language
+WL
+INST-H 200 Intermediate Hindi I
+#Asia#Culture#Language
+WL
+INST-H 250 Intermediate Hindi II
+#Asia#Culture#Language
+WL
+INST-I 100 Introduction to India
+#Asia#Culture#History#Literature#Movies
+WC
+INST-I 212 The Civilization of Tibet
+#Art#Asia#Culture#History#Human Behavior#Language#Literature#Religion
+SH
+INST-S 100 Elementary Sanskrit I
+#Asia#Culture#Language
+WL
+INST-S 150 Elementary Sanskrit II
+#Asia#Culture#Language
+WL
+INST-S 200 Intermediate Sanskrit I
+#Asia#Culture#Language
+WL
+INST-S 250 Intermediate Sanskrit II
+#Asia#Culture#Language
+WL
+INST-U 100 Elementary Urdu I
+#Asia#Culture#Language
+WL
+INST-U 150 Elementary Urdu II
+#Asia#Culture#Language
+WL
+INST-U 200 Intermediate Urdu I
+#Asia#Culture#Language
+WL
+INST-U 250 Intermediate Urdu II
+#Asia#Culture#Language
+WL
+INTL-I 100 Introduction to International Studies
+#Asia#Culture#History#Human Behavior#Language#Literature
+SHWC
+INTL-I 102 Climate Change and International Studies
+#Animals#Culture#Environment#Government#History#Human Behavior#Human Rights#International#Legal Issues#Nature#Sustainability
+SH
+INTL-I 103 Global Business: Politics, Policy, and Practice
+#Business#Culture#Environment#International#Security#Technology#Writing
+SH
+INTL-I 202 Global Health and Environment
+#Conflict Resolution#Environment#Healthcare#Human Behavior#International#Nature
+SHWC
+INTL-I 203 Global Development
+#Business#Culture#International#Legal Issues
+SHWC
+INTL-I 204 Human Rights
+#Conflict Resolution#Culture#Government#History#Human Rights#International#Legal Issues
+SHWC
+INTL-I 205 Culture and Politics
+#Conflict Resolution#Culture#Government#History#Human Rights#International#Legal Issues
+SHWC
+INTL-I 206 Peace and Conflict
+#Conflict Resolution#Culture#Government#History#Human Rights#International#Legal Issues
+SHWC
+INTL-I 210 Diplomacy, Security, Governance
+#Communication#Conflict Resolution#Culture#Government#History#International#Legal Issues#Security
+SH
+INTL-I 220 Global Connections
+#Art#Communication#Human Behavior#Human Rights#International#Legal Issues#Music#Philosophy
+WC
+INTL-I 222 Global Health Connections
+#Culture#Environment#Fitness#Food#Healthcare#International#Nutrition
+SHWC
+JSTU-B 100 Introduction to Biblical Hebrew I
+#Culture#Europe#History#Language
+WL
+JSTU-B 150 Introduction to Biblical Hebrew II
+#Culture#Europe#History#Language
+WL
+JSTU-B 200 Intermediate Biblical Hebrew I
+#Culture#Europe#History#Language
+WL
+JSTU-B 250 Intermediate Biblical Hebrew II
+#Culture#Europe#History#Language
+WL
+JSTU-C 216 Israeli Inequality in Context
+#Conflict Resolution#Culture#History#Human Rights#International#Legal Issues
+WC
+JSTU-C 260 Israeli Film and Fiction
+#Asia#Culture#Europe#Literature#Movies
+AH
+JSTU-H 100 Elementary Modern Hebrew I
+#Culture#Europe#Language
+WL
+JSTU-H 150 Elementary Modern Hebrew II
+#Culture#Europe#Language
+WL
+JSTU-H 190 Intensive Elementary Hebrew
+#Culture#Europe#Language
+WL
+JSTU-H 200 Intermediate Modern Hebrew I
+#Culture#Europe#Language
+WL
+JSTU-H 250 Intermediate Modern Hebrew II
+#Culture#Europe#Language
+WL
+JSTU-J 203 Arts and Humanities Topics in Jewish Studies
+#Art#Culture#History#Literature#Religion
+AH
+JSTU-J 204 Social and Historical Topics in Jewish Studies
+#Culture#History
+SH
+JSTU-J 220 Sacred Books of the Jews
+#Culture#History#Literature#Religion
+AHWC
+JSTU-J 251 Introduction to Jewish History: From the Bible to Spanish Expulsion
+#Africa#Asia#Culture#Europe#History#Human Behavior#Philosophy#Religion
+SHWC
+JSTU-J 252 Introduction to Jewish History: From Spanish Expulsion to the Present
+#Asia#Culture#Europe#History#Human Behavior#Philosophy#Religion
+SHWC
+JSTU-J 254 Israel: History, Society, Culture
+#Culture#History#International#Religion
+SHWC
+JSTU-J 257 Monuments, Memories: Jewish and Black Experiences
+#Culture#History#Human Rights
+SH
+JSTU-J 258 Representing Jews and African Americans in American Musical Theatre
+#Africa#Culture#Human Behavior#Music#North America#Performance
+AH
+JSTU-L 270 Coming to America: History and Memory of Immigration in Jewish Literature
+#Culture#Literature#North America
+AH
+LATS-L 101 Introduction to Latino Studies
+#Culture#History#Human Behavior#Literature#North America
+SH
+LATS-L 102 Introduction to Latino History
+#Central America#Culture#Helping People#History#Human Behavior#Language#Legal Issues#North America#South America#Sustainability
+SH
+LATS-L 103 Introduction to Latino Cultures
+#Culture#History#Human Behavior#Literature#Movies#Music#North America#Performance
+SH
+LATS-L 104 Latinas in the United States
+#Culture#Gender and LGBTQ+#History#North America
+SH
+LATS-L 200 American Borderlands
+#Central America#Culture#Gender and LGBTQ+#Government#History#Human Rights#Legal Issues#North America
+AH
+LATS-L 220 Introduction to Latino Literature
+#Central America#Culture#Literature
+AH
+LATS-L 228 An Interdisciplinary Look at U.S. Latino/a Identities
+#Culture#Gender and LGBTQ+#History#North America#South America
+SH
+LATS-L 250 Blacks, Latinos, and Afro-Latinos: Constructing Identity and Difference
+#Culture#History
+SHWC
+LING-H 101 Elementary Hausa I
+#Culture#Europe#Language
+WL
+LING-H 102 Elementary Hausa II
+#Africa#Culture#Language
+WL
+LING-H 201 Intermediate Hausa I
+#Africa#Culture#Language
+WL
+LING-H 202 Intermediate Hausa II
+#Africa#Culture#Language
+WL
+LING-L 103 Introduction to the Study of Language
+#Animals#Communication#Human Behavior#Language
+SH
+LING-L 203 Introduction to Linguistic Analysis
+#Language
+NM
+LING-L 245 Language and Computers
+#Language#Technology
+NM
+LSTU-L 101 American Labor History
+#Business#Culture#History#Human Behavior#Legal Issues#North America
+SH
+LSTU-L 110 Introduction to Labor Studies: Labor and Society
+#Conflict Resolution#Culture#History#Human Rights#Leadership#Legal Issues
+SH
+LSTU-L 230 Labor and the Economy
+#Business#Culture#Human Behavior#Leadership#Legal Issues#Technology
+SH
+LTAM-C 101 Elementary Haitian Creole I
+#Culture#Language#South America
+WL
+LTAM-C 102 Elementary Haitian Creole II
+#Culture#Language#North America#South America
+WL
+LTAM-C 201 Intermediate Haitian Creole I
+#Culture#Language#North America#South America
+WL
+LTAM-C 202 Intermediate Haitian Creole II
+#Culture#Language#North America#South America
+WL
+LTAM-L 210 Latin America & Caribbean: Cultures, Histories, and Politics
+#Central America#Conflict Resolution#Culture#Environment#Government#History#Human Behavior#South America
+SHWC
+LTAM-L 211 Contemporary Latin America and the Caribbean
+#Central America#Conflict Resolution#Culture#History#Human Behavior#North America
+SHWC
+LTAM-L 230 Maya Cultures, Religion, Communities, and Identity in Mexico and Guatemala
+#Central America#Culture#History#Literature#Media#Movies#Music#North America#Religion
+AHWC
+LTAM-L 275 Altered States: Spirituality, Power, Healing
+#Culture#History#Human Behavior#International#Music#Performance#Religion
+SHWC
+LTAM-M 101 Elementary Maya I
+#Central America#Culture#Language
+WL
+LTAM-M 102 Elementary Maya II
+#Central America#Culture#Language
+WL
+LTAM-M 201 Intermediate Maya I
+#Central America#Culture#History#Language
+WL
+LTAM-M 202 Intermediate Maya II
+#Central America#Culture#Language
+WL
+LTAM-Q 101 Elementary Quechua I
+#Culture#Language#South America
+WL
+LTAM-Q 102 Elementary Quechua II
+#Culture#Language#South America
+WL
+LTAM-Q 201 Intermediate Quechua I
+#Culture#Language#South America
+WL
+LTAM-Q 202 Intermediate Quechua II
+#Culture#Language#South America
+WL
+MATH-D 116 Introduction to Finite Mathematics I
+#Math
+MMNM
+MATH-D 117 Introduction to Finite Mathematics II
+#Math
+MMNM
+MATH-J 113 Introduction to Calculus with Applications
+#Math
+MMNM
+MATH-M 106 The Mathematics of Decision and Beauty
+#Math
+MMNM
+MATH-M 118 Finite Mathematics
+#Math
+MMNM
+MATH-M 119 Brief Survey of Calculus I
+#Math
+MMNM
+MATH-M 120 Brief Survey of Calculus II
+#Math
+NM
+MATH-M 211 Calculus I
+#Math
+MMNM
+MATH-M 212 Calculus II
+#Math
+NM
+MATH-S 118 Honors Finite Mathematics
+#Math
+MMNM
+MATH-S 211 Honors Calculus I
+#Math
+MMNM
+MATH-S 212 Honors Calculus II
+#Math
+NM
+MATH-V 118 Finite Mathematics with Applications (Topic: Finite Math in Action)
+#Math
+MMNM
+MATH-V 118 Finite Mathematics with Applications (Topic: Finite Mathematics for the Social and Biological Sciences)
+#Math
+MMNM
+MATH-V 118 Finite Mathematics with Applications (Topic: Finite and Consumer Mathematics)
+#Math
+MM
+MATH-V 119 Applied Brief Calculus I (Topic: Applied Brief Calculus I for the Life Sciences)
+#Math
+MMNM
+MELC-A 100 Elementary Arabic I
+#Language
+WL
+MELC-A 150 Elementary Arabic II
+#Language
+WL
+MELC-A 200 Intermediate Arabic I
+#Language
+WL
+MELC-A 250 Intermediate Arabic II
+#Language
+WL
+MELC-E 100 Elementary Hieroglyphic Egyptian I
+#Africa#Language
+WL
+MELC-E 150 Elementary Hieroglyphic Egyptian II
+#Africa#Culture#History#Language#Literature#Religion
+WL
+MELC-E 200 Intermediate Middle Egyptian
+#Africa#Language
+WL
+MELC-E 201 Egypt of the Pharaohs: History and Civilization of Ancient Egypt
+#Africa#Culture#History
+SH
+MELC-E 250 Late Egyptian: Grammar and Texts
+#Africa#Culture#History#Language#Literature#Religion
+WL
+MELC-M 204 Topics in Middle Eastern Culture and Society
+#Africa#Asia#Culture#Europe#History
+SHWC
+MELC-M 213 World of Late Antiquity
+#Asia#Culture#Europe#History#Religion
+SH
+MELC-M 215 Middle East Before Islam
+#Africa#Asia#Culture#Europe#History#International#Religion
+SHWC
+MELC-M 216 Israeli Inequality in Context
+#Asia#Conflict Resolution#Culture#Gender and LGBTQ+#Government#History#Human Rights#Religion
+WC
+MELC-M 233 The Golden Age of Islamic Civilization
+#Africa#Art#Asia#Culture#Design#Europe#History#Literature#Science
+WC
+MELC-M 265 Introduction to Islamic Civilization
+#Culture#History#Philosophy#Religion
+SH
+MELC-M 265 Introduction to Islamic Civilization
+#Africa#Asia#Culture#Europe#Government#History#Philosophy#Religion
+WC
+MSCH-C 101 Media
+#Communication#Culture#History#Journalism#Literature#Media#News#Pop Culture#Technology#Video Games#Writing
+SH
+MSCH-C 203 Foundations of Journalism
+#Culture#Journalism#Media#News#Pop Culture#Writing
+SH
+MSCH-C 211 Screening Gender and Sexuality
+#Communication#Culture#Gender and LGBTQ+#Movies#North America#Performance#Pop Culture
+SH
+MSCH-C 212 Screening Race and Ethnicity
+#Culture#History#Movies#Music#North America#Performance#Pop Culture
+SH
+MSCH-C 213 Introduction to Media Psychology
+#Communication#Culture#Government#History#Journalism#Media#News#Pop Culture#Writing
+SH
+MSCH-C 214 Race, Prejudice, and the Media
+#Communication#Culture#History#Human Rights#Journalism#Literature#Media#Movies#Music#News#North America#Pop Culture#Writing
+SH
+MSCH-C 216 Social Scientific Perspectives of Gender and Media
+#Communication#Culture#Gender and LGBTQ+#Human Rights#Media#News#Pop Culture
+SH
+MSCH-C 217 Image Cultures
+#Communication#Culture#Europe#Gender and LGBTQ+#History#Media#Movies#North America#Performance#Photography#Pop Culture
+AH
+MSCH-C 219 Media in the Global Context
+#Communication#Culture#Government#History#International#Journalism#Media#Pop Culture
+SH
+MSCH-C 241 Watching Film
+#Media#Movies#Pop Culture
+AH
+MSCH-F 204 Topics in Media, Culture, and Society
+#Culture#Media
+SH
+MSCI-M 115 Introduction to Anatomy and Physiology
+#Fitness#Forensics#Healthcare#Nutrition#Rehabilitation#Science#Sports
+NS
+MSCI-M 131 Disease and the Human Body
+#Healthcare#Science
+NS
+MSCI-M 216 Medical Science of Psychoactive Drugs
+#Healthcare#Science
+NS
+MUS-A 100 Foundations of Audio Technology
+#Internet#Music#Performance#Pop Culture#Programming#Science#Technology
+NS
+MUS-A 111 Electronics I
+#Data Analysis#Math#Science#Technology
+NS
+MUS-A 112 Electronics II
+#Data Analysis#Math#Science#Technology
+NS
+MUS-L 121 Beginning Guitar Class and Styles
+#Music
+AH
+MUS-L 122 Intermediate Guitar Class and Styles
+#Music
+AH
+MUS-P 110 Beginning Piano Class 1, Non-Music Majors
+#Music
+AH
+MUS-P 120 Beginning Piano Class 2, Non-Music Majors
+#Music
+AH
+MUS-T 109 Rudiments of Music
+#Music
+AH
+MUS-T 151 Music Theory and Literature I
+#Literature#Music#Performance
+AH
+MUS-U 261 Music and Community Engagement
+#Culture#Helping People#Human Rights#Music#Performance
+AH
+MUS-V 105 Voice Class and Styles
+#Culture#Music
+AH
+MUS-Z 101 Music for the Listener
+#History#Music#Performance
+AH
+MUS-Z 111 Introduction to Music Theory
+#Music#Performance
+AH
+MUS-Z 120 Music in Multimedia
+#Media#Music#Performance#Technology#Video Games
+AH
+MUS-Z 130 Musical Performance Contexts
+#Communication#Culture#History#International#Media#Movies#Performance#Pop Culture
+AH
+MUS-Z 171 Opera Theatre Series
+#Art#Communication#Culture#Design#History#International#Language#Literature#Music#Performance
+AH
+MUS-Z 190 Jazz for Listeners
+#Culture#History#Music#Performance#Pop Culture
+AH
+MUS-Z 200 History of the Blues
+#Culture#History#Music#North America#Pop Culture
+AH
+MUS-Z 201 History of Rock and Roll Music
+#History#Literature#Music
+AH
+MUS-Z 202 History of Rock Music II
+#History#Literature#Music
+AH
+MUS-Z 203 History of Rock 'n' Roll III
+#History#Literature#Music
+AH
+MUS-Z 204 Women Musicians
+#Culture#Gender and LGBTQ+#Music#Performance#Pop Culture
+SH
+MUS-Z 205 History of Music Production
+#Music
+SH
+MUS-Z 208 History of Punk Rock
+#Culture#History#Music#Performance
+AH
+MUS-Z 211 Music Theory II
+#Music#Performance
+AH
+MUS-Z 213 Latin American and Latino Popular Music and Culture
+#Art#Culture#History#Music#Pop Culture#South America
+AHWC
+MUS-Z 224 Music and Culture in the James Bond Franchise
+#Culture#Movies#Music#Pop Culture
+AH
+MUS-Z 226 Superheroes: Music in Cinema
+#Movies#Music#Pop Culture
+AH
+MUS-Z 250 Choral Masterworks: Singing Through History
+#History#Music
+AHWC
+MUS-Z 260 Music in American Society
+#History#Literature#Music#North America#Performance
+AH
+MUS-Z 261 Music and Community Engagement
+#Culture#Helping People#Human Rights#Music#Performance
+AH
+MUS-Z 264 Music and Videogames
+#Music#Pop Culture#Video Games
+AH
+MUS-Z 265 American Country Music
+#Music#North America
+AH
+MUS-Z 270 Music of War and Peace
+#Conflict Resolution#History#Human Rights#Legal Issues#Media#Movies#Music#Performance#Pop Culture
+AHWC
+MUS-Z 280 Music of the Silk Road
+#Asia#Culture#Europe#History#Music
+AHWC
+MUS-Z 281 East-West Encounters in Music
+#Asia#Culture#Europe#Music#North America
+AHWC
+MUS-Z 282 Music of Russia
+#Culture#Europe#Music
+AHWC
+MUS-Z 283 Popular Music of Europe and Asia
+#Asia#Culture#Europe#Performance#Pop Culture
+AHWC
+MUS-Z 284 Music in Global Cinema
+#Africa#Asia#Central America#Culture#Europe#History#International#Movies#Music#North America#Performance#Pop Culture#South America
+AHWC
+MUS-Z 287 Musical Creativity in Diverse Cultures
+#Culture#International#Music
+WC
+MUS-Z 288 Videogame Music in World Cultures
+#Culture#International#Music#Video Games
+AHWC
+MUS-Z 290 Remixing
+#Legal Issues#Music
+AH
+PACE-C 100 Introduction to Theories of Leadership
+#Communication#Culture#History#Human Behavior#Leadership#Management
+SH
+PACE-C 250 Leadership and Public Policy
+#Conflict Resolution#Culture#Government#Helping People#History#Human Behavior#Human Rights#Leadership
+SH
+PACE-S 250 Honors Leadership and Public Policy
+#Culture#Government#Leadership
+SH
+PHIL-P 103 Gender, Sexuality, and Race in Philosophical Perspectives
+#Culture#Gender and LGBTQ+#Human Rights#Philosophy
+AH
+PHIL-P 105 Thinking and Reasoning
+#Language#Philosophy#Science
+AH
+PHIL-P 106 Introduction to Problems of Philosophy
+#History#Philosophy#Religion
+AH
+PHIL-P 107 Philosophy and the Environment
+#Animals#Business#Conflict Resolution#Environment#Food#Government#Nature#Philosophy#Sustainability
+AH
+PHIL-P 135 Introduction to Existentialism
+#Human Behavior#Human Rights#Literature#Philosophy
+AH
+PHIL-P 141 Introduction to Ethical Theories and Problems
+#Philosophy
+AH
+PHIL-P 145 Liberty and Justice: A Philosophical Introduction
+#Government#History#Human Rights#Philosophy#Religion
+AH
+PHIL-P 150 Elementary Logic
+#Communication#Conflict Resolution#Language#Math#Philosophy#Science
+AH
+PHIL-P 200 Problems of Philosophy
+#Philosophy
+AH
+PHIL-P 201 Ancient Greek Philosophy
+#Culture#Europe#History#Philosophy
+AHWC
+PHIL-P 211 Modern Philosophy: Descartes through Kant
+#History#Language#Math#Philosophy#Religion#Science
+AH
+PHIL-P 240 Business and Morality
+#Business#Human Rights#Leadership#Philosophy
+AH
+PHIL-P 242 Applied Ethics
+#Animals#Government#Healthcare#Human Rights#Philosophy#Sustainability
+AH
+PHIL-P 246 Introduction to Philosophy and Art
+#Art#Philosophy
+AH
+PHIL-P 250 Introductory Symbolic Logic
+#Language#Math#Philosophy#Science
+NM
+PHIL-P 251 Intermediate Symbolic Logic
+#Language#Math#Philosophy#Science
+NM
+PHSL-P 215 Basic Human Physiology
+#Fitness#Science
+NS
+PHYS-P 105 Basic Physics of Sound
+#Science
+NS
+PHYS-P 120 Energy and Technology
+#Environment#Science#Sustainability#Technology
+NS
+PHYS-P 133 Physics for Future Leaders
+#Culture#Internet#Leadership#Technology
+NS
+PHYS-P 150 How Things Work
+#Security#Technology
+NS
+PHYS-P 199 Physical Science through Inquiry
+#Science#Teaching
+NS
+PHYS-P 201 General Physics I
+#Math#Science
+NS
+PHYS-P 202 General Physics II
+#Math#Science
+NS
+POLS-Y 100 American Political Controversies
+#Communication#Conflict Resolution#Culture#Government#History#Human Behavior#Human Rights#Legal Issues#Philosophy
+SH
+POLS-Y 102 International Political Controversies
+#Communication#Conflict Resolution#Government#History#International#Legal Issues
+SH
+POLS-Y 103 Introduction to American Politics
+#Government#History#Human Rights#Legal Issues#Philosophy
+SH
+POLS-Y 104 The Politics of Saving the World
+#Government#Legal Issues#Science
+SH
+POLS-Y 105 Introduction to Political Theory
+#Conflict Resolution#Culture#Europe#Government#History#Human Behavior#Human Rights#Legal Issues#Philosophy#Religion
+AH
+POLS-Y 107 Introduction to Comparative Politics
+#Culture#Government#History#Human Behavior#Legal Issues#Philosophy#Religion
+SH
+POLS-Y 109 Introduction to International Relations
+#Communication#Conflict Resolution#Culture#Government#History#Human Behavior#Human Rights#Legal Issues#Philosophy#Religion
+SH
+POLS-Y 110 Mathematics and Politics
+#Data Analysis#Government#Human Rights#Math
+NM
+POLS-Y 121 Capitalism and Democracy
+#Government#Human Rights#Leadership
+SH
+POLS-Y 200 Contemporary Political Topics
+#Government#Legal Issues
+SH
+POLS-Y 202 Politics and Citizenship in the Information Age
+#Communication#Culture#Journalism#Legal Issues#Media#News
+SH
+POLS-Y 204 Institutional Analysis and Governance
+#Culture#Government#History#Human Behavior#Legal Issues#Philosophy
+SH
+POLS-Y 207 The Politics of Business
+#Business#Government#History#International
+SH
+POLS-Y 208 Leadership, Civil Society, and Public Policy
+#Conflict Resolution#Government#Human Rights#Journalism
+SH
+POLS-Y 211 Introduction to Law
+#Conflict Resolution#Culture#Government#History#Human Behavior#Human Rights#Legal Issues#Philosophy
+SH
+POLS-Y 243 Governance and Corruption Across the World
+#Conflict Resolution#Government#Helping People#Human Behavior#Human Rights#International#Legal Issues
+SH
+POLS-Y 249 Religion, Politics, and Public Policy
+#Conflict Resolution#Culture#Government#History#Human Behavior#Human Rights#International#Legal Issues#Philosophy#Religion
+SH
+PSY-P 101 Introductory Psychology I
+#Healthcare#Human Behavior#Science
+NS
+PSY-P 102 Introductory Psychology II
+#Counseling#Culture#Science
+SH
+PSY-P 155 Introduction to Psychological and Brain Sciences
+#Data Analysis#Healthcare#Human Behavior#Science
+NS
+PSY-P 211 Methods of Experimental Psychology
+#Counseling#Healthcare#Helping People#Human Behavior
+NS
+REL-A 202 Issues in African, European, and West Asian Religions (Topic: Prophets, Messiahs, Apocalypses)
+#Culture#International#Religion
+AH
+REL-A 210 Introduction to the Old Testament/Hebrew Bible
+#Communication#Conflict Resolution#Culture#Government#History#Human Behavior#Human Rights#Language#Legal Issues#Literature#Philosophy#Religion
+AHWC
+REL-A 220 Introduction to the New Testament
+#Communication#Culture#Helping People#History#Language#Literature#Philosophy#Religion
+AHWC
+REL-A 235 Sacred Books of the Jews
+#Communication#Culture#History#Human Behavior#Literature#Philosophy#Religion
+AHWC
+REL-A 250 Introduction to Christianity
+#Art#Communication#Conflict Resolution#Culture#Design#Government#Helping People#History#Human Behavior#Human Rights#International#Language#Legal Issues#Literature#Music#Performance#Philosophy#Religion
+AHWC
+REL-A 270 Introduction to Islam
+#Africa#Art#Asia#Communication#Conflict Resolution#Culture#Europe#Government#Helping People#History#Human Behavior#Human Rights#Language#Legal Issues#Literature#Music#Philosophy#Religion
+AHWC
+REL-B 210 Introduction to Buddhism
+#Asia#Communication#Conflict Resolution#Culture#Europe#Government#Helping People#History#Human Behavior#Human Rights#Legal Issues#Literature#North America#Philosophy#Religion
+AHWC
+REL-B 220 Introduction to Hinduism
+#Art#Asia#Communication#Conflict Resolution#Culture#Fashion#Government#Helping People#History#Human Behavior#Human Rights#Language#Legal Issues#Literature#Music#Philosophy#Religion
+AHWC
+REL-D 250 Religion, Ecology, and the Self
+#Animals#Communication#Conflict Resolution#Culture#Environment#Food#Helping People#History#Human Behavior#Human Rights#Legal Issues#Nature#Philosophy#Religion#Sustainability
+AH
+REL-R 102 Religion and Popular Culture
+#Art#Communication#Conflict Resolution#Culture#Design#Fashion#Helping People#History#Human Behavior#Human Rights#Legal Issues#Literature#Media#Movies#Music#Performance#Philosophy#Pop Culture#Religion
+AH
+REL-R 133 Introduction to Religion
+#Culture#Religion
+AH
+REL-R 152 Jews, Christians, Muslims
+#Culture#Europe#North America#Religion
+AHWC
+REL-R 153 Religions of Asia
+#Asia#Culture#Religion
+AHWC
+REL-R 160 Introduction to Religion in America
+#Culture#History#North America#Religion
+AH
+REL-R 170 Religion, Ethics, and Public Life
+#Environment#Europe#Government#Healthcare#Human Rights#North America#Religion
+AH
+REL-R 175 Religion and Sports
+#Culture#History#Human Behavior#International#North America#Religion#Sports
+AH
+SEAS-B 101 Elementary Burmese I
+#Asia#Culture#Language
+WL
+SEAS-B 102 Elementary Burmese II
+#Asia#Culture#Language
+WL
+SEAS-B 201 Intermediate Burmese I
+#Asia#Culture#Language
+WL
+SEAS-B 202 Intermediate Burmese II
+#Asia#Culture#Language
+WL
+SEAS-I 101 Elementary Indonesian I
+#Asia#Culture#Language
+WL
+SEAS-I 102 Elementary Indonesian II
+#Asia#Culture#Language
+WL
+SEAS-I 201 Intermediate Indonesian I
+#Asia#Culture#Language
+WL
+SEAS-I 202 Intermediate Indonesian II
+#Asia#Culture#Language
+WL
+SEAS-T 101 Elementary Thai I
+#Asia#Language
+WL
+SEAS-T 102 Elementary Thai II
+#Asia#Language
+WL
+SEAS-T 201 Intermediate Thai I
+#Asia#Language
+WL
+SEAS-T 202 Intermediate Thai II
+#Asia#Language
+WL
+SGIS-S 202 Artificial Intelligence and the Race to Rule the World
+#Government#Security#Technology
+SH
+SLAV-C 101 Elementary Czech I
+#Culture#Europe#Language
+WL
+SLAV-C 102 Elementary Czech II
+#Culture#Europe#Language
+WL
+SLAV-C 111 Summer Intensive Elementary Czech I
+#Culture#Europe#Language
+WL
+SLAV-C 122 Summer Intensive Elementary Czech II
+#Culture#Europe#Language
+WL
+SLAV-C 201 Intermediate Czech I
+#Culture#Europe#Language
+WL
+SLAV-C 202 Intermediate Czech II
+#Culture#Europe#Journalism
+WL
+SLAV-C 223 Introduction to Czech Culture
+#Art#Culture#Europe#Literature#Movies#Music#Performance#Photography
+AHWC
+SLAV-M 101 Elementary Romanian I
+#Culture#Europe#Language
+WL
+SLAV-M 102 Elementary Romanian II
+#Culture#Europe#Language
+WL
+SLAV-M 111 Summer Intensive Elementary Romanian I
+#Culture#Europe#Journalism
+WL
+SLAV-M 122 Summer Intensive Elementary Romanian II
+#Culture#Europe#Language
+WL
+SLAV-M 201 Intermediate Romanian I
+#Culture#Europe#Language
+WL
+SLAV-M 202 Intermediate Romanian II
+#Culture#Europe#Language
+WL
+SLAV-N 111 Summer Intensive Elementary Russian I
+#Culture#Europe#Language
+WL
+SLAV-N 112 Summer Intensive Elementary Russian II
+#Culture#Europe#Language
+WL
+SLAV-N 122 Summer Intensive Elementary Russian II
+#Culture#Europe#Language
+WL
+SLAV-N 221 Summer Intensive Intermediate Russian I
+#Culture#Europe#Language
+WL
+SLAV-N 231 Summer Intensive Intermediate Russian I
+#Culture#Europe#Language
+WL
+SLAV-N 232 Summer Intensive Intermediate Russian II
+#Culture#Europe#Language
+WL
+SLAV-N 242 Summer Intensive Intermediate Russian II
+#Culture#Europe#Language
+WL
+SLAV-P 101 Elementary Polish I
+#Culture#Europe#Language
+WL
+SLAV-P 102 Elementary Polish II
+#Culture#Europe#Language
+WL
+SLAV-P 111 Summer Intensive Elementary Polish I
+#Culture#Europe#Language
+WL
+SLAV-P 122 Summer Intensive Elementary Polish II
+#Culture#Europe#Language
+WL
+SLAV-P 201 Intermediate Polish I
+#Culture#Europe#Language
+WL
+SLAV-P 202 Intermediate Polish II
+#Culture#Europe#Language
+WL
+SLAV-P 223 Introduction to Polish Culture
+#Art#Culture#Design#Europe#Government#History#Literature#Science
+AHWC
+SLAV-R 101 Elementary Russian I
+#Culture#Europe#Language
+WL
+SLAV-R 102 Elementary Russian II
+#Culture#Europe#Language
+WL
+SLAV-R 123 Masterworks of Russian Short Fiction
+#Asia#Europe#History#Literature
+AHWC
+SLAV-R 201 Intermediate Russian I
+#Culture#Europe#Language
+WL
+SLAV-R 202 Intermediate Russian II
+#Culture#Europe#Language
+WL
+SLAV-R 223 Introduction to Russian Culture
+#Art#Asia#Culture#Europe#History#Literature
+AHWC
+SLAV-R 224 Contemporary Russian Culture
+#Art#Asia#Culture#Europe#Government#History#Literature#Music
+AHWC
+SLAV-R 229 Russian Folk Tales
+#Art#Culture#Europe#Literature#Movies#Music
+AHWC
+SLAV-R 263 Pushkin to Dostoevsky
+#Art#Culture#History#Human Rights#Literature#Music
+AHWC
+SLAV-R 264 Tolstoy to Solzhenitsyn
+#Asia#Culture#Europe#Government#History#Human Rights#Literature
+AHWC
+SLAV-S 101 Elementary Bosnian/Croatian/Serbian I
+#Culture#Europe#History#Language
+WL
+SLAV-S 102 Elementary Bosnian/Croatian/Serbian II
+#Culture#Europe#History#Language
+WL
+SLAV-S 111 Summer Intensive Elementary Bosnian/Croatian/Serbian I
+#Culture#Europe#Language
+WL
+SLAV-S 122 Summer Intensive Elementary Bosnian/Croatian/Serbian II
+#Culture#Europe#Language
+WL
+SLAV-S 201 Intermediate Bosnian/Croatian/Serbian I
+#Culture#Europe#Language
+WL
+SLAV-S 202 Intermediate Bosnian/Croatian/Serbian II
+#Culture#Europe#Language
+WL
+SLAV-S 223 Introduction to Balkan and South Slavic Cultures
+#Culture#Europe#History
+AHWC
+SLAV-T 241 Central and East European Immigration and Ethnic Identity in the U.S. (Topic: Central and East European Immigration and Ethnic Identity in the U.S.--Honors)
+#Culture#Europe#History#Human Rights#North America
+SH
+SLAV-U 101 Elementary Ukrainian I
+#Culture#Europe#Language
+WL
+SLAV-U 102 Elementary Ukrainian II
+#Culture#Europe#Language
+WL
+SLAV-U 111 Summer Intensive Elementary Ukrainian I
+#Culture#Europe#Language
+WL
+SLAV-U 122 Summer Intensive Elementary Ukrainian II
+#Culture#Europe#Language
+WL
+SLAV-U 201 Intermediate Ukrainian I
+#Culture#Europe#Language
+WL
+SLAV-U 202 Intermediate Ukrainian II
+#Culture#Europe#Language
+WL
+SLAV-U 223 Introduction to Ukrainian Culture
+#Art#Europe#Language#Literature#Music#Pop Culture
+AHWC
+SLHS-A 100 American Sign Language I
+#Language
+WL
+SLHS-A 150 American Sign Language II
+#Language
+WL
+SLHS-A 200 American Sign Language III
+#Language
+WL
+SLHS-A 250 American Sign Language IV
+#Communication#Helping People#Language#North America
+WL
+SLHS-S 104 Human Communication and Its Disorders
+#Healthcare#Language#Rehabilitation#Science
+NS
+SLHS-S 106 Hearing Science: An Overview
+#Counseling#Helping People#Rehabilitation
+NS
+SLHS-S 201 Speech Anatomy and Physiology
+#Science
+NS
+SLST-S 111 Multilingualism in the U.S. and the World
+#Culture#International#Language
+SH
+SLST-S 112 Multilingualism and the Brain
+#Language#Science
+NS
+SLST-S 204 Language and (In)Tolerance in the U.S.
+#Conflict Resolution#Helping People#Human Behavior#Human Rights#Language#Legal Issues
+SH
+SOAD-A 101 Creative Core: Color
+#Art#Culture#Design#Fashion
+AH
+SOAD-A 102 Creative Core: Drawing
+#Art#Design#Media
+AH
+SOAD-A 103 Creative Core: 3D Design
+#Art#Crafts#Design#Environment#Fashion#Math#Sustainability#Technology
+AH
+SOAD-D 191 Design Studies: Form and Function
+#Art#Design
+AH
+SOAD-N 110 Introduction to Studio Art for Nonmajors
+#Art#Crafts#Design
+AH
+SOAD-N 130 Digital Imagery for Nonmajors
+#Art#Design#Media#Photography
+AH
+SOAD-N 198 Introduction to Photography for Nonmajors
+#Art#Communication#Journalism#Photography
+AH
+SOAD-S 200 Drawing I
+#Art
+AH
+SOAD-S 210 Digital Art: Survey and Practice
+#Art#Design#Media#Photography
+AH
+SOAD-S 220 Fibers I
+#Art#Crafts#Design#Fashion
+AH
+SOAD-S 230 Painting I
+#Art
+AH
+SOAD-S 240 Printmaking I
+#Art#Crafts#Design
+AH
+SOAD-S 250 Graphic Design I
+#Art#Design
+AH
+SOAD-S 270 Sculpture I
+#Art#Crafts#Design
+AH
+SOAD-S 271 Figurative Sculpture I
+#Art#Crafts#Design
+AH
+SOAD-S 280 Metalsmithing and Jewelry Design I
+#Art#Crafts#Design
+AH
+SOAD-S 290 Photography I
+#Art#Culture#Movies#Photography
+AH
+SOC-S 100 Introduction to Sociology
+#Culture#History#Human Behavior#Philosophy
+SH
+SOC-S 101 Social Problems and Policies
+#Conflict Resolution#Culture#Gender and LGBTQ+#Healthcare#Helping People#History#Human Behavior
+SH
+SOC-S 105 Sociology Laboratory
+#Conflict Resolution#Counseling#Culture#Helping People#Human Behavior
+SH
+SOC-S 110 Charts, Graphs, and Tables
+#Government#Internet#Media#News#Technology
+NM
+SOC-S 210 The Economy, Organizations, and Work
+#Business#Culture#Government#Human Behavior#Teaching#Technology
+SH
+SOC-S 215 Social Change
+#Conflict Resolution#Culture#Helping People#History#Human Behavior#Legal Issues#Philosophy#Religion
+SH
+SOC-S 217 Social Inequality
+#Culture#History#Human Behavior#Philosophy
+SH
+SOC-S 230 Society and the Individual
+#Culture#History#Human Behavior#Philosophy
+SH
+SPEA-A 163 Introduction to Arts Management
+#Art#Business#Finance#Leadership#Management#Music#Performance
+SH
+SPEA-E 183 Environment and People
+#Environment#Human Behavior#Nature#Sustainability
+SH
+SPEA-E 272 Introduction to Environmental Sciences
+#Environment#Science
+NS
+SPEA-H 124 Overview of the U.S. Healthcare System
+#Business#Culture#Data Analysis#Healthcare#Legal Issues#Science
+SH
+SPEA-S 160 Honors--National and International Policy
+#Government#International#Legal Issues
+SH
+SPEA-S 161 Honors--Urban Problems and Solutions
+#Conflict Resolution#Culture#Helping People
+SH
+SPEA-S 162 Honors--Environment and People
+#Culture#Environment#Nature#Sustainability
+SH
+SPEA-S 163 Honors--Art Worlds: Management, Markets, and Policy
+#Art#Business#Management#Marketing#Music#Performance#Public Relations
+SH
+SPEA-S 220 Honors--Law and Public Affairs
+#Government#Legal Issues
+SH
+SPEA-S 272 Honors--Introduction to Environmental Sciences
+#Environment#Science
+NS
+SPEA-V 160 National and International Policy
+#Business#Healthcare#Legal Issues#Security
+SH
+SPEA-V 161 Urban Problems and Solutions
+#Conflict Resolution#Culture#Helping People
+SH
+SPEA-V 181 U.S. Policy and Administration
+#Communication#Government#Legal Issues#News#Public Relations
+SH
+SPEA-V 182 Policy-making Around the World: Comparative and International Approaches
+#Conflict Resolution#Culture#Environment#Government#History#Human Behavior#Human Rights#International#Leadership#Legal Issues#Security#Sustainability
+SH
+SPEA-V 184 Law and Public Affairs
+#Government#Legal Issues
+SH
+SPEA-V 203 The Call of Public Service
+#Government#Leadership
+SH
+SPEA-V 221 Nonprofit and Voluntary Sector
+#Finance#Helping People#History#Human Behavior#Leadership#Management#Religion
+SH
+SPEA-V 272 Terrorism and Public Policy
+#Conflict Resolution#Culture#Government#History#Human Rights#International#Legal Issues
+SH
+SPH-B 150 Introduction to Public Health
+#Culture#Healthcare#History#Philosophy#Science
+SH
+SPH-E 250 Public Health Surveillance and Monitoring
+#Data Analysis#Healthcare#Helping People#Science#Security
+NS
+SPH-F 150 Introduction to Life Span Human Development
+#Culture#Human Behavior#Philosophy
+SH
+SPH-F 255 Human Sexuality
+#Culture#Gender and LGBTQ+#Human Behavior#Science
+SH
+SPH-F 258 The Ties That Bind: Relationships, Marriage, and the Family
+#Culture#Gender and LGBTQ+#Human Behavior
+SH
+SPH-H 172 International Health and Social Issues
+#Conflict Resolution#Culture#Data Analysis#Healthcare#Human Behavior#International#Legal Issues
+SH
+SPH-H 174 Prevention of Violence in American Society
+#Conflict Resolution#Counseling#Culture#Healthcare#Helping People#Human Behavior
+SH
+SPH-H 220 Death and Dying
+#Healthcare#Helping People#Human Behavior#Legal Issues
+SH
+SPH-H 235 Obesity and Health
+#Conflict Resolution#Culture#Fitness#Healthcare#Helping People#Human Behavior#Nutrition
+SH
+SPH-H 263 Personal Health
+#Fitness#Healthcare#Nutrition
+SH
+SPH-K 150 Introduction to Kinesiology and Public Health
+#Counseling#Fitness#Food#Healthcare#Helping People#Nutrition#Rehabilitation#Sports
+SH
+SPH-K 205 Structural Kinesiology
+#Fitness#Science
+NS
+SPH-K 212 Introduction to Exercise Science
+#Fitness#Healthcare#Helping People#Rehabilitation#Science#Sports
+NS
+SPH-N 231 Human Nutrition
+#Food#Healthcare#Nutrition#Science
+NS
+SPH-R 142 Living Well
+#Fitness#Healthcare#Human Behavior
+SH
+SPH-R 200 Health and Happiness by Design
+#Culture#Fitness#Healthcare#North America
+SH
+SPH-V 230 One Health: The Intersection of Human, Animal, and Environmental Health
+#Animals#Environment#Healthcare#Nature#Science#Sustainability
+NS
+SPH-V 235 Introduction to Public Health Biology
+#Healthcare#Helping People#Science
+NS
+SPH-V 241 Foundations of Environmental Health
+#Culture#Environment#Fitness#Food#Healthcare#Human Behavior#Nature#Nutrition#Sustainability
+NS
+STAT-S 100 Statistical Literacy
+#Data Analysis#Math#Media#News
+NM
+SWK-S 102 Understanding Diversity in a Pluralistic Society
+#Conflict Resolution#Culture#Gender and LGBTQ+#Government#Helping People#Human Behavior#Human Rights#Legal Issues#Religion
+SH
+SWK-S 221 Human Behavior and the Social Environment I
+#Children#Counseling#Culture#Helping People#Human Behavior#Philosophy#Religion
+SH
+SWK-S 251 History and Analysis of Social Welfare Policy
+#Culture#Government#Helping People#History#Human Rights#Legal Issues#North America
+SH
+THTR-D 231 Introduction to Dance Studies
+#Culture#Performance
+AH
+THTR-T 100 Introduction to Theatre
+#Culture#Performance
+AH
+THTR-T 101 Script Analysis for the Theatre
+#Literature#Performance
+AH
+THTR-T 108 Great Performances in Film
+#Performance#Pop Culture
+AH
+THTR-T 120 Acting I: Fundamentals of Acting
+#Communication#Performance
+AH
+THTR-T 125 Performance as Art and Design
+#Art#Crafts#Culture#Design#Fashion#History#Human Behavior#Movies#Music#Performance#Photography
+AH
+TOPT-V 201 Anatomy and Physiology of the Eye
+#Healthcare#Science
+NS
+VSCI-V 250 The Miracle of Sight
+#Healthcare#Science
