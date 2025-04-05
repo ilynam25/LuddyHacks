@@ -51,27 +51,51 @@ with open(r"explore_programs/explore_programs_geneds_raw.txt") as file:
 #print(hashmap)
 
 def recommended_class(interests, required):
-    #Give it a list of interests, and of a string of required class, for example 'AH'
-    #Then it chucks out a list [2, AAAD-A 132 Recent African American and African Diaspora Literature, ['Africa', 'Central America']]
-    #The 2 represents number of interests matched, index 1 is class description, index 2 is  what matched.
-    best_class = [1, 'classname']
-    for i in hashmap[required]:
-        count = 0
-        reasons = []
-        i[1][-1] = i[1][-1].strip()
-        st = set(i[1])
-        
-        for j in interests:
-            #print(j)
-            if j in st:
-                reasons.append(j)
-                count += 1
+    best_class = [0, 'classname', []]
 
-        if count > best_class[0]:
-            best_class = [count, i[0].strip(), reasons]
+    interests = [x.strip() for x in interests]
 
-    
+
+    if required == 'GEN':
+        for subject in hashmap:
+            for course in hashmap[subject]:
+                if len(course) < 2 or not isinstance(course[1], list):
+                    continue  
+
+                count = 0
+                reasons = []
+                tags = [tag.strip() for tag in course[1]]
+
+                for interest in interests:
+                    if interest in tags:
+                        reasons.append(interest)
+                        count += 1
+
+                if count > best_class[0]:
+                    best_class = [count, course[0].strip(), reasons]
+
+    else:
+        for course in hashmap.get(required, []):
+            if len(course) < 2 or not isinstance(course[1], list):
+                continue  
+
+            count = 0
+            reasons = []
+            tags = [tag.strip() for tag in course[1]]
+
+            for interest in interests:
+                if interest in tags:
+                    reasons.append(interest)
+                    count += 1
+
+            if count > best_class[0]:
+                best_class = [count, course[0].strip(), reasons]
+
     return best_class
+
+
+
+print(recommended_class(["Africa", "Central America"], 'GEN'))
 
 
 
