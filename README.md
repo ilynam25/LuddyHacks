@@ -1,2 +1,2 @@
 # LuddyHacks
-Repository for Luddy Hackathon group with Gabe, Ian, Dax, and Jeff
+Repository for Luddy Hackathon group with Gabe, Ian, Dax, and Fred
