@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 from datatesting import output
-import fred_labeling_classes as fred
+import Dataparsing.classes_by_interest as fred
 import random as rand
 
 # Load the CSV file

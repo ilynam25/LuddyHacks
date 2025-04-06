@@ -114,7 +114,12 @@ def schedule_build(interests, term):
         if i in p:
             geneds.append(i)
         else:
-            regularclasses.append(i)
+            if ',' in i:
+                req_choice=i
+                req_choice=req_choice.split(',')
+                regularclasses.append(rand.choice(req_choice))
+            else:
+                regularclasses.append(i)
 
     genids = []
     for i in geneds:
@@ -129,4 +134,4 @@ def schedule_build(interests, term):
     return final_schedule
 
 # Example usage:
-print(schedule_build(('music, numbers, math, video games, art, '), 1))
+print(schedule_build(('Art','Music'), 2))
