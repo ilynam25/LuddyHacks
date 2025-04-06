@@ -1,0 +1,296 @@
+Accounting
+#Business#Data Analysis#Finance#Helping People
+African American and African Diaspora Studies
+#Africa#Art#Communication#Culture#History#Human Rights#International#Literature#Media#Movies#Music#News#North America#Performance#Pop Culture#Religion#South America#Sports
+American Studies
+#Art#Communication#Culture#Human Rights#Literature#Media#Movies#News#North America#Pop Culture#South America
+Animal Behavior
+#Africa#Animals#Nature#Science
+Anthropology
+#Africa#Animals#Asia#Central America#Communication#Crafts#Culture#Data Analysis#Europe#Food#Forensics#Gender and LGBTQ+#Healthcare#Human Behavior#Human Rights#International#Journalism#Language#Media#News#North America#Performance#Pop Culture#Religion#Science#South America#Writing
+Art History
+#Africa#Art#Asia#Culture#Europe#History#International#North America#Religion#Travel
+Arts Management
+#Art#Business#Culture#Event Planning#Management#Marketing#Music#Teaching
+Astronomy and Astrophysics
+#Data Analysis#Math#Science
+Atmospheric Science
+#Data Analysis#Environment#Math#Nature#News#Science#Sustainability
+Audio Engineering and Sound Production
+#Design#Media#Music#Technology
+Ballet
+#Culture#Fitness#Music#Performance#Sports
+Biochemistry
+#Data Analysis#Environment#Forensics#Healthcare#Nature#Nutrition#Science
+Biology
+#Animals#Data Analysis#Environment#Forensics#Healthcare#Nature#Science
+Biotechnology
+#Business#Data Analysis#Forensics#Government#Healthcare#Helping People#Legal Issues#Management#Science#Sustainability#Technology
+Business Analytics
+#Business#Data Analysis
+Central Eurasian Studies
+#Asia#Culture#Europe#Literature#Religion#Writing
+Chemistry
+#Data Analysis#Environment#Forensics#Math#Nutrition#Science
+Cinematic Arts
+#Art#Culture#Design#Media#Movies#Music#Performance
+Classical Civilization
+#Art#Culture#Europe#Literature#Philosophy
+Classical Studies
+#Europe#Language#Literature#Writing
+Clinical Psychological Science
+#Counseling#Data Analysis#Healthcare#Helping People#Science
+Cognitive Science
+#Data Analysis#Math#Philosophy#Programming#Science#Technology#Video Games
+Community Health
+#Children#Food#Healthcare#Helping People#News#Teaching
+Comparative Literature
+#Africa#Art#Asia#Culture#Europe#Gender and LGBTQ+#International#Literature#Media#Movies#Music#North America#Performance#Photography#Pop Culture#Writing
+Comprehensive Design
+#Art#Business#Crafts#Culture#Design#Fashion#Pop Culture#Technology
+Computational Linguistics
+#Communication#Data Analysis#Language#Math#Programming#Science#Technology
+Computer Science BA
+#Data Analysis#Design#Language#Math#Programming#Science#Security#Technology#Video Games
+Computer Science BS
+#Data Analysis#Design#Language#Math#Programming#Science#Security#Technology#Video Games
+Counseling and Student Services
+#Children#Conflict Resolution#Counseling#Helping People#Human Behavior#Leadership#Rehabilitation
+Criminal Justice
+#Conflict Resolution#Data Analysis#Forensics#Gender and LGBTQ+#Helping People#Human Behavior#Human Rights#Legal Issues#News#Rehabilitation#Security
+Cybersecurity and Global Policy
+#Government#International#Legal Issues#Programming#Security#Technology
+Dance
+#Culture#Fitness#Performance#Pop Culture
+Data Science
+#Data Analysis#Design#Programming#Science#Security#Technology
+Dietetics
+#Food#Healthcare#Helping People#Nutrition
+Digital Technology Management
+#Business#Data Analysis#Management#Technology
+Digital and Social Media Business Applications
+#Business#Data Analysis#Internet#Marketing#Media
+Earth Science
+#Data Analysis#Environment#Math#Nature#News#Science#Sustainability
+Earth and Atmospheric Sciences
+#Data Analysis#Environment#Math#Nature#News#Science#Sustainability
+East Asian Languages and Cultures
+#Art#Asia#Culture#History#Language#Literature#Writing
+East Asian Studies
+#Art#Asia#Culture#History#Language#Literature#Writing
+Economic Consulting
+#Business#Data Analysis#Finance#Helping People#Management#Marketing
+Economics
+#Business#Data Analysis#Finance#Government#International#Marketing#News#Sustainability
+Economics and Quantitative Methods
+#Business#Data Analysis#Government#Math
+Education: Chemistry, Grades 5-12
+#Children#Environment#Science#Teaching
+Education: Early Childhood Education
+#Children#Helping People#Teaching
+Education: Earth/Space Science, Grades 5-12
+#Children#Science#Teaching
+Education: Elementary Education: Theory into Practice
+#Children#Helping People#Teaching
+Education: Elementary Special Education (Teaching All Learners)
+#Children#Helping People#Teaching
+Education: Journalism, Grades 5-12
+#Children#Communication#Journalism#Media#News#Teaching#Writing
+Education: Language Arts/English, Grades 5-12
+#Children#Language#Literature#Teaching#Writing
+Education: Life Science/Biology, Grades 5-12
+#Animals#Children#Environment#Nature#Science#Teaching
+Education: Mathematics, Grades 5 - 12
+#Children#Data Analysis#Math#Teaching
+Education: Physics, Grades 5-12
+#Children#Math#Science#Teaching
+Education: Secondary Special Education (5-12)
+#Children#Environment#Language#Literature#Math#Science#Teaching#Writing
+Education: Social Studies, Grades 5-12
+#Children#Culture#Europe#Government#History#International#News#North America#Teaching
+Education: Visual Art (All Grades)
+#Art#Children#Culture#History#Photography#Teaching
+Education: World Languages (All Grades)
+#Asia#Children#Culture#Europe#Language#Literature#Teaching#Writing
+English
+#Business#Communication#Culture#Europe#Journalism#Language#Literature#Media#News#Pop Culture#Writing
+Entrepreneurship and Corporate Innovation
+#Business#Finance#Leadership#Management#Marketing#News
+Environmental Geoscience
+#Environment#Science#Sustainability
+Environmental Health
+#Data Analysis#Environment#Food#Government#Healthcare#Helping People#Human Behavior#Management#Science#Security
+Environmental Management
+#Business#Environment#Government#Management#Sustainability
+Environmental Science
+#Animals#Data Analysis#Environment#Nature#Science
+Environmental and Sustainability Studies
+#Animals#Business#Data Analysis#Environment#Food#Helping People#Human Rights#International#Leadership#Nature#News#Sustainability
+Epidemiology
+#Data Analysis#Environment#Forensics#Government#Healthcare#Helping People#Human Behavior#Management#Math#Nature#Science#Sustainability#Technology
+Exercise Science
+#Data Analysis#Fitness#Healthcare#Rehabilitation#Science#Sports
+Fashion Design
+#Art#Crafts#Culture#Design#Fashion#Pop Culture
+Finance
+#Business#Data Analysis#Finance#Helping People
+Fitness and Wellness
+#Fitness#Healthcare#Helping People#Rehabilitation#Teaching
+Folklore and Ethnomusicology
+#Africa#Art#Crafts#Culture#History#International#Literature#Media#Music#Performance#Pop Culture#Religion
+French
+#Culture#Europe#History#Language#Literature#Writing
+Game Design
+#Art#Communication#Design#Human Behavior#Media#Music#Pop Culture#Programming#Technology#Video Games
+Gender Studies
+#Art#Communication#Culture#Fashion#Gender and LGBTQ+#Helping People#History#Human Behavior#Human Rights#International#Media#Movies#Music#News#Performance#Pop Culture
+Geography
+#Culture#Data Analysis#Environment#Food#Helping People#Human Behavior#Human Rights#International#Math#Nature#News#North America#Science#Sustainability#Travel
+Germanic Studies
+#Europe#Language#Writing
+Healthcare Management and Policy
+#Business#Healthcare#Helping People#Management
+Historical Performance
+#Culture#History#Music#Performance
+History
+#Africa#Asia#Central America#Culture#Europe#Government#History#Human Rights#International#Legal Issues#North America#Religion#South America
+Human Biology
+#Data Analysis#Environment#Gender and LGBTQ+#Helping People#Science
+Human Development and Family Studies
+#Children#Conflict Resolution#Counseling#Gender and LGBTQ+#Helping People#Human Behavior#Teaching
+Human Resource Management
+#Business#Communication#Conflict Resolution#Counseling#Helping People#Human Behavior#Management#Teaching
+India Studies
+#Asia#Culture#History#Language#Literature#Writing
+Informatics
+#Animals#Data Analysis#Design#Environment#Helping People#Internet#Math#Media#Programming#Science#Security#Sustainability#Technology#Video Games
+Information Systems
+#Business#Data Analysis#Internet#Technology
+Intelligent Systems Engineering
+#Data Analysis#Design#Environment#Internet#Math#Programming#Science#Security#Technology
+Interior Design
+#Art#Crafts#Culture#Data Analysis#Design#Environment#Fashion#Helping People#Human Behavior#Pop Culture#Sustainability#Technology
+International Business
+#Business#Culture#International#Travel
+International Law and Institutions
+#Government#Human Rights#International#Legal Issues
+International Studies
+#Africa#Asia#Business#Central America#Communication#Conflict Resolution#Culture#Environment#Europe#Government#Helping People#History#Human Rights#International#Language#Leadership#Legal Issues#News#North America#South America#Sustainability#Travel
+Italian
+#Culture#Europe#History#Language#Literature#Writing
+Jazz Studies
+#Culture#Media#Music#Performance
+Jewish Studies
+#Asia#Culture#Europe#History#Human Rights#International#Language#Literature#North America#Religion
+Journalism
+#Business#Communication#Culture#Design#Fashion#Gender and LGBTQ+#Government#Helping People#Human Rights#International#Internet#Journalism#Legal Issues#Media#News#Photography#Pop Culture#Public Relations#Sports#Travel#Writing
+Labor Studies
+#Business#Conflict Resolution#Culture#Gender and LGBTQ+#Government#Helping People#History#Human Rights#International#Leadership#Legal Issues#Management#Media#News#Pop Culture#Public Relations#Sustainability
+Law and Public Policy
+#Conflict Resolution#Government#Helping People#Human Rights#Leadership#Legal Issues#News
+Law, Ethics, and Decision-Making
+#Business#Conflict Resolution#Legal Issues#News#Philosophy
+Leading Diverse, Equitable, and Inclusive Organizations
+#Business#Leadership
+Linguistics
+#Communication#International#Language
+Management + Human Organization
+#Business#Communication#Culture#Finance#Leadership#Legal Issues#Management#Writing
+Management-Kelley
+#Business#Finance#Management#Marketing
+Management-O'Neill
+#Business#Finance#Government#Legal Issues#Management
+Marketing
+#Business#Data Analysis#Human Behavior#Management#Marketing
+Marketing and Professional Sales
+#Business#Data Analysis#Human Behavior#Marketing
+Mathematics
+#Data Analysis#Math#Programming#Science#Technology
+Media
+#Art#Business#Communication#Culture#Design#Gender and LGBTQ+#Helping People#Human Behavior#International#Internet#Journalism#Management#Marketing#Media#Movies#News#Photography#Pop Culture#Public Relations#Sports#Technology#Video Games#Writing
+Merchandising
+#Business#Fashion#Human Behavior#Management#Marketing#Pop Culture
+Microbiology
+#Animals#Data Analysis#Environment#Forensics#Healthcare#Nature#Nutrition#Science
+Middle Eastern Languages and Cultures
+#Africa#Asia#Culture#Europe#History#Language#Literature#Religion#Writing
+Molecular Life Sciences
+#Business#Data Analysis#Healthcare#Science
+Music Composition
+#Culture#Music#Performance
+Music Education
+#Children#Culture#Media#Music#Performance#Teaching
+Music Performance
+#Culture#Media#Music#Performance
+Music and an Outside Field
+#Culture#Media#Music#Performance
+Musical Theatre
+#Culture#Movies#Music#Performance#Pop Culture
+Neuroscience
+#Data Analysis#Healthcare#Helping People#Programming#Science#Technology
+Nonprofit Management and Leadership
+#Business#Communication#Conflict Resolution#Gender and LGBTQ+#Helping People#Human Rights#Leadership#Management#Rehabilitation#Sustainability
+Nursing
+#Children#Healthcare#Helping People#Nutrition#Science
+Nutrition Science
+#Data Analysis#Food#Healthcare#Helping People#Nutrition#Science
+Operations Management
+#Business#Data Analysis#Management
+Organizational and Business Psychology
+#Business#Communication#Human Behavior#Leadership#Management
+Parks, Recreation, and The Outdoors
+#Business#Environment#Event Planning#Fitness#Healthcare#Helping People#Management#Marketing#Nature#North America#Sports#Sustainability#Teaching
+Philosophy
+#Animals#Conflict Resolution#Culture#Data Analysis#Environment#Food#Government#History#Human Behavior#Human Rights#Legal Issues#News#Philosophy#Religion#Writing
+Physics
+#Data Analysis#Math#Science
+Policy Analysis
+#Business#Conflict Resolution#Data Analysis#Government#Legal Issues#Management#News
+Political Science
+#Africa#Asia#Central America#Conflict Resolution#Culture#Data Analysis#Europe#Government#Helping People#History#Human Behavior#Human Rights#International#Leadership#Legal Issues#News#North America#Philosophy#Security#South America
+Portuguese
+#Culture#Europe#History#Language#Literature#Writing
+Professional Sales
+#Business#Communication#Helping People#Human Behavior#Marketing#Public Relations#Writing
+Psychology
+#Animals#Communication#Conflict Resolution#Counseling#Data Analysis#Gender and LGBTQ+#Healthcare#Helping People#Human Behavior#Rehabilitation#Science#Teaching#Video Games
+Public Financial Management
+#Data Analysis#Finance#Government#Management
+Public Management and Leadership
+#Business#Communication#Government#Helping People#Human Rights#Leadership#Legal Issues#Management
+Public Policy Analysis
+#Business#Conflict Resolution#Data Analysis#Government#Legal Issues#News
+Real Estate
+#Business#Finance#Helping People
+Recreational Therapy
+#Children#Fitness#Healthcare#Helping People#Human Behavior#Rehabilitation#Sports#Teaching
+Religious Studies
+#Africa#Asia#Culture#Europe#Gender and LGBTQ+#History#Human Behavior#Human Rights#International#Legal Issues#Literature#News#North America#Philosophy#Religion
+Safety
+#Business#Healthcare#Helping People#Management#Science
+Slavic and East European Languages and Cultures
+#Asia#Culture#Europe#History#Language#Literature#Travel#Writing
+Social Work
+#Children#Conflict Resolution#Counseling#Culture#Gender and LGBTQ+#Government#Healthcare#Helping People#History#Human Behavior#Human Rights#Leadership#Legal Issues#Teaching
+Sociology
+#Business#Conflict Resolution#Culture#Data Analysis#Forensics#Gender and LGBTQ+#Healthcare#Helping People#Human Behavior#Human Rights#News#Religion
+Spanish
+#Culture#History#Language#Literature#Travel#Writing
+Speech, Language and Hearing Sciences
+#Children#Communication#Data Analysis#Healthcare#Helping People#Science#Teaching
+Sport Marketing and Management
+#Business#Management#Marketing#Pop Culture#Sports
+Statistics
+#Data Analysis#Math
+Studio Art
+#Art#Crafts#Culture#Design#Fashion#Media#Photography#Pop Culture#Technology#Video Games
+Supply Chain Management
+#Business#Data Analysis#Management
+Sustainable Business
+#Business#Environment#Management#Sustainability
+Theatre and Drama
+#Art#Communication#Crafts#Culture#Design#Literature#Performance#Writing
+Tourism, Hospitality, and Event Management
+#Business#Communication#Culture#Event Planning#Food#Government#Helping People#International#Leadership#Management#Marketing#Travel
+Youth Development
+#Children#Counseling#Gender and LGBTQ+#Helping People#Human Behavior#Teaching

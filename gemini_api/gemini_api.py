@@ -221,9 +221,11 @@ async def get_bot_response(input_text, chat_branch_state):
         return "Sorry, something went wrong.", "Initial State"
 
 # ✅ Run the async function and print output
+"""
 response = asyncio.run(get_bot_response("Hi i want to schedule all my classes?", "Initial State"))
 print("Bot:", response[0])
 print("New State:", response[1])
 response = asyncio.run(get_bot_response("my major is accounting!!!", response[1]))
 print("Bot:", response[0])
 print("New State:", response[1])
+"""
