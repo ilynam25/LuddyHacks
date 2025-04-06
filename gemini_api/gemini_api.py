@@ -1,15 +1,16 @@
 from google import generativeai as genai
 from retrieve_reccomendations.retrieve_major_minor_rec import choose_degree_of_interests
-import json
+from retrieve_reccomendations.schedulebuilder import schedule_build
 import asyncio
 from dotenv import load_dotenv
 import os
+import traceback
 
 load_dotenv()  # Loads variables from .env into the environment
 
 # Access them
 gemini_api_key = os.getenv('GEMINI_API_KEY')
-genai.configure(api_key=gemini_api_key)
+genai.configure(api_key="empty")
 
 # ✅ Create the Gemini model instance
 model = genai.GenerativeModel("gemini-1.5-flash")
@@ -29,10 +30,11 @@ async def get_model_response(system_instruction, user_prompt):
 
         # ✅ Extract and return the response text
         return response.text.strip()
-    
+
     except Exception as e:
-        print("Error:", e)
-        return "Sorry, something went wrong."
+        print("🔥 Error occurred:")
+        traceback.print_exc()  # Prints full stack trace
+        return "Sorry, something went wrong." + traceback.format_exc() + "Hello"
 # ✅ Async function to get the bot response
 async def get_bot_response(input_text, chat_branch_state):
     try:
@@ -83,12 +85,12 @@ async def get_bot_response(input_text, chat_branch_state):
             case "Initial Clarification":
                 text = "Sorry, I had trouble processing that. Try again!"
                 new_chat_branch_state = "Initial State"
-            
+
             case "Individual Class":
                 system_instruction = """
                     You are a classifier.
                     You will return two parts strictly formatted with a comma in between.
-                    
+
                     Part 1:
                     You will return a strictly formatted list like in Python of the following categories, nothing else.
                     They will describe themselves, and you will return at least 3 (more if possible) categories that align with their interests. MAKE SURE IT IS ONLY THESE CATEGORIES YOU RETURN AND STRICTLY FORMATTED:
@@ -113,8 +115,8 @@ async def get_bot_response(input_text, chat_branch_state):
                 """
 
                 response_text = await get_model_response(system_instruction, input_text)
-                text = response_text
-                new_chat_branch_state = "Final State"
+                text = response_text + "\n\nNow what would you like to do? As a reminder, you can ask me about majors, minors, or classes."
+                new_chat_branch_state = "Initial State"
 
             case "Class Scheduling":
                 system_instruction = """
@@ -127,10 +129,55 @@ async def get_bot_response(input_text, chat_branch_state):
                 response_text = await get_model_response(system_instruction, input_text)
                 text = response_text
                 if response_text == "1":
-                    new_chat_branch_state = "Final State"
+                    new_chat_branch_state = "Class Scheduling Interests"
                 else:
                     text = "Sorry, I had trouble processing that. As of now only the data for accounting is fully available. Try again!"
 
+            case "Class Scheduling Interests":
+                system_instruction = """
+                    You are a classifier.
+                    you will return two parts as a python array strictly formatted strictly
+                    the first part is the semester they are currently in -1. So if they say they are in their second semester, return 1.
+                    Strictly just put this as a number
+
+                    in the second part, you will return a strictly formatted list like in Python of the following categories, nothing else, no commas or whitespace before or after. The response should start and end with brackets. CLOSE THE STRINGS IN DOUBLE QUOTES ONLY.
+                    They will describe themselves, and you will return at least 1 (more if possible) categories that align with their interests. MAKE SURE IT IS ONLY THESE CATEGORIES YOU RETURN AND STRICTLY FORMATTED:
+                    'Nutrition', 'South America', 'Pop Culture', 'Legal Issues', 'Teaching',
+                    'Journalism', 'Sustainability', 'Finance', 'Nature', 'Conflict Resolution',
+                    'Video Games', 'Math', 'Human Behavior', 'Literature', 'Crafts', 'Technology',
+                    'Movies', 'Fitness', 'Forensics', 'Central America', 'Language', 'Science',
+                    'Marketing', 'Asia', 'Fashion', 'Business', 'Music', 'Philosophy', 'History',
+                    'Internet', 'Children', 'Travel', 'Media', 'Photography', 'Design',
+                    'Environment', 'Food', 'Security', 'Religion', 'Sports', 'Healthcare',
+                    'Data Analysis', 'Helping People', 'Performance', 'North America', 'Animals',
+                    'Management', 'Programming', 'Art', 'Writing', 'Leadership'
+
+                """
+                response_text = await get_model_response(system_instruction, input_text)
+                try:
+                    # Parse the JSON string into a Python object
+                    parsed_response = json.loads(response_text)
+
+                    # Extract the semester and interests
+                    cur_semester = parsed_response[0]  # First element is the semester
+                    interests = parsed_response[1]     # Second element is the list of interests
+
+                    print("Current Semester:", cur_semester)
+                    print("Interests:", interests)
+                    schedule_builder = schedule_build(cur_semester, interests)
+                    system_instruction = """
+                    You will return a strictly formatted html table showing a schedule made with the following data. nothing else.
+                    The data is:
+                        """
+                    response_text = await get_model_response(system_instruction, str(schedule_builder))
+
+
+
+                except json.JSONDecodeError as e:
+                    print("Error parsing response:", e) 
+
+
+            
             case "Majors":
                 system_instruction = """
                     You are a classifier.
@@ -217,15 +264,8 @@ async def get_bot_response(input_text, chat_branch_state):
         return text, new_chat_branch_state
 
     except Exception as e:
-        print("Error:", e)
-        return "Sorry, something went wrong.", "Initial State"
+        print("🔥 Error occurred:")
+        traceback.print_exc()  # Prints full stack trace
+        return "Sorry, something went wrong." + traceback.format_exc() + "Hello"
 
-# ✅ Run the async function and print output
-"""
-response = asyncio.run(get_bot_response("Hi i want to schedule all my classes?", "Initial State"))
-print("Bot:", response[0])
-print("New State:", response[1])
-response = asyncio.run(get_bot_response("my major is accounting!!!", response[1]))
-print("Bot:", response[0])
-print("New State:", response[1])
-"""
+# Run the async function and print output

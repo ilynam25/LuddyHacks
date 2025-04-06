@@ -1,4 +1,4 @@
-def choose_degree_of_interests(major_or_minor, interests):
+def choose_degree_off_interests(major_or_minor, interests):
     degree_to_interests = {}
     interest_to_degrees = {}
 

@@ -1,44 +1,53 @@
 import asyncio
-from flask import Flask, request, jsonify
-from flask_cors import CORS
+from flask import Flask, request, jsonify, make_response
 from gemini_api.gemini_api import get_bot_response
 
 app = Flask(__name__)
 
-# ✅ Allow all origins dynamically & support credentials
-CORS(app, origins="*", supports_credentials=True)
-
-@app.after_request
-def apply_cors_headers(response):
-    origin = request.headers.get("Origin")
-    if origin:
-        response.headers["Access-Control-Allow-Origin"] = origin
+# ✅ Explicit CORS preflight route
+@app.route("/process", methods=["OPTIONS"])
+def cors_preflight():
+    print("🌐 Handling OPTIONS preflight request")
+    response = make_response('', 204)
+    response.headers["Access-Control-Allow-Origin"] = "https://msde-7.github.io"
     response.headers["Access-Control-Allow-Credentials"] = "true"
     response.headers["Access-Control-Allow-Headers"] = "Content-Type"
-    response.headers["Access-Control-Allow-Methods"] = "GET,POST,OPTIONS"
+    response.headers["Access-Control-Allow-Methods"] = "POST,OPTIONS"
     return response
 
-@app.route("/process", methods=["POST", "OPTIONS"])
+# ✅ Main POST route
+@app.route("/process", methods=["POST"])
 def process_text():
-    if request.method == "OPTIONS":
-        return jsonify({"message": "CORS preflight OK"}), 200
+    try:
+        data = request.get_json()
+        text = data.get("text")
+        state = data.get("state")
 
-    data = request.get_json()
-    text = data.get("text")
-    state = data.get("state")
+        if not text or not state:
+            response = jsonify({"error": "Missing 'text' or 'state'"})
+            response.headers["Access-Control-Allow-Origin"] = "https://msde-7.github.io"
+            response.headers["Access-Control-Allow-Credentials"] = "true"
+            return response, 400
 
-    if not text or not state:
-        return jsonify({"error": "Missing 'text' or 'state'"}), 400
+        print(f"📥 Received POST: text='{text}', state='{state}'")
+        ret_text, ret_state = asyncio.run(get_bot_response(text, state))
 
-    print(f"📥 Received POST: text='{text}', state='{state}'")
-    ret_text, ret_state = asyncio.run(get_bot_response(text, state))
+        response = jsonify({
+            "result": {
+                "text": ret_text,
+                "state": ret_state
+            }
+        })
+        response.headers["Access-Control-Allow-Origin"] = "https://msde-7.github.io"
+        response.headers["Access-Control-Allow-Credentials"] = "true"
+        return response
 
-    return jsonify({
-        "result": {
-            "text": ret_text,
-            "state": ret_state
-        }
-    })
+    except Exception as e:
+        print("🔥 ERROR:", str(e))
+        response = jsonify({"error": "Server error", "details": str(e)})
+        response.headers["Access-Control-Allow-Origin"] = "https://msde-7.github.io"
+        response.headers["Access-Control-Allow-Credentials"] = "true"
+        return response, 500
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5050, debug=True)
+    app.run()
