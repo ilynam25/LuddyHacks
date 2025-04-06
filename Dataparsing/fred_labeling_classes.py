@@ -51,7 +51,7 @@ with open(r"explore_programs/explore_programs_geneds_raw.txt") as file:
 #print(hashmap)
 
 def recommended_class(interests, required):
-    best_class = [0, 'classname', []]
+    best_class = [0, 'COLL-F 101', []]
 
     interests = [x.strip() for x in interests]
 
@@ -95,8 +95,8 @@ def recommended_class(interests, required):
 
 
 
-print(recommended_class(["Africa", "Central America"], 'GEN'))
+# print(recommended_class(["Africa", "Central America"], 'GEN'))
 
 
 
-print(recommended_class(["Africa", "Central America"], 'AH'))
+# print(recommended_class(["Africa", "Central America"], 'AH'))
