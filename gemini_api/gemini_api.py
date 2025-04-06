@@ -1,57 +1,54 @@
 from google import generativeai as genai
-from retrieve_reccomendations.retrieve_major_minor_rec import choose_degree_of_interests
+from retrieve_reccomendations.retrieve_major_minor_rec import choose_degree_off_interests
 from retrieve_reccomendations.schedulebuilder import schedule_build
 import asyncio
 from dotenv import load_dotenv
 import os
 import traceback
+import json
 
 load_dotenv()  # Loads variables from .env into the environment
 
 # Access them
 gemini_api_key = os.getenv('GEMINI_API_KEY')
-genai.configure(api_key="empty")
+genai.configure(api_key="")
 
-# ✅ Create the Gemini model instance
+# create the Gemini model instance
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 
 async def get_model_response(system_instruction, user_prompt):
     try:
-        # ✅ Combine instruction and user prompt into one "user" message
+        # combine instruction and user prompt into one "user" message
         full_prompt = f"{system_instruction}\n\nUser request: {user_prompt}"
 
-        # ✅ Generate content using the model
+        # generate content using the model
         response = model.generate_content(
             contents=[
                 {"role": "user", "parts": [{"text": full_prompt}]}
             ]
         )
 
-        # ✅ Extract and return the response text
+        # Extract and return the response text
         return response.text.strip()
 
     except Exception as e:
         print("🔥 Error occurred:")
         traceback.print_exc()  # Prints full stack trace
         return "Sorry, something went wrong." + traceback.format_exc() + "Hello"
-# ✅ Async function to get the bot response
+# async function to get the bot response
 async def get_bot_response(input_text, chat_branch_state):
     try:
         text = ""
         new_chat_branch_state = chat_branch_state
-
+        # Branches for chat conversation. Branch is determined via gemini
         match chat_branch_state:
             case "Initial State":
                 system_instruction = """
                     You are a classifier. Return only a single number (and nothing else) based on the user's request:
-                    Return 1 if they want help finding a single class.
-                    Return 2 if they want help finding majors.
-                    Return 3 if they want help finding minors.
-                    Return 4 if they want to see information about a class, such as average GPA.
-                    Return 5 if they want help scheduling a full semester of classes for their major.
-                    Do not return 5 if they are only asking about scheduling an individual class.
-                    If they imply multiple things, do 5.
+                    Return 1 if they want help finding majors.
+                    Return 2 if they want help finding minors.
+                    Return 3 if they want help scheduling, choosing a semester, something related to that.
                     Return -1 if they are asking about nothing related to the above, but only if absolutely not related.
                     Do not explain your answer. Do not include any text. Just return the number.
                 """
@@ -61,29 +58,20 @@ async def get_bot_response(input_text, chat_branch_state):
 
                 match response_text:
                     case "1":
-                        text = "Great! I can help you find a single class. What are you looking for?"
-                        new_chat_branch_state = "Class Scheduling"
-                    case "2":
                         text = "Awesome! I can help you find majors. What are you interested in?"
                         new_chat_branch_state = "Majors"
-                    case "3":
+                    case "2":
                         text = "Sure! I can help you find minors. What are you interested in?"
                         new_chat_branch_state = "Minors"
-                    case "4":
-                        text = "Sure! I can provide information about a class, such as average GPA. Which class are you interested in?"
-                        new_chat_branch_state = "Class Information"
-                    case "5":
+                    case "3":
+                        print("We are scheduling")
                         text = "Sure! I can help you schedule a full semester of classes for your major. Which major are you interested in?"
                         new_chat_branch_state = "Class Scheduling"
-                    case "-1":
-                        text = "Sorry, I had trouble processing that. Try again!"
-                        new_chat_branch_state = "Initial State"
                     case _:
-                        text = "Sorry, I had trouble processing that. Try again!"
-                        new_chat_branch_state = "Initial State"
+                        text="Sorry, I had trouble understanding that. Could you be more clear"
 
             case "Initial Clarification":
-                text = "Sorry, I had trouble processing that. Try again!"
+                text = "Sorry, I had trouble understanding that. Could you be more clear"
                 new_chat_branch_state = "Initial State"
 
             case "Individual Class":
@@ -115,7 +103,7 @@ async def get_bot_response(input_text, chat_branch_state):
                 """
 
                 response_text = await get_model_response(system_instruction, input_text)
-                text = response_text + "\n\nNow what would you like to do? As a reminder, you can ask me about majors, minors, or classes."
+                text = response_text + "<br><br>Now what would you like to do? As a reminder, you can ask me about majors, minors, or scheduling."
                 new_chat_branch_state = "Initial State"
 
             case "Class Scheduling":
@@ -127,13 +115,14 @@ async def get_bot_response(input_text, chat_branch_state):
                 """
 
                 response_text = await get_model_response(system_instruction, input_text)
-                text = response_text
                 if response_text == "1":
                     new_chat_branch_state = "Class Scheduling Interests"
+                    text = "Awesome! I can help you schedule a full semester of classes for your major. What are some of your interests and what is your current semester as a number? For instance Freshman Spring would be 2."
                 else:
                     text = "Sorry, I had trouble processing that. As of now only the data for accounting is fully available. Try again!"
 
             case "Class Scheduling Interests":
+                print("in class schedduling interests")
                 system_instruction = """
                     You are a classifier.
                     you will return two parts as a python array strictly formatted strictly
@@ -142,21 +131,27 @@ async def get_bot_response(input_text, chat_branch_state):
 
                     in the second part, you will return a strictly formatted list like in Python of the following categories, nothing else, no commas or whitespace before or after. The response should start and end with brackets. CLOSE THE STRINGS IN DOUBLE QUOTES ONLY.
                     They will describe themselves, and you will return at least 1 (more if possible) categories that align with their interests. MAKE SURE IT IS ONLY THESE CATEGORIES YOU RETURN AND STRICTLY FORMATTED:
-                    'Nutrition', 'South America', 'Pop Culture', 'Legal Issues', 'Teaching',
-                    'Journalism', 'Sustainability', 'Finance', 'Nature', 'Conflict Resolution',
-                    'Video Games', 'Math', 'Human Behavior', 'Literature', 'Crafts', 'Technology',
-                    'Movies', 'Fitness', 'Forensics', 'Central America', 'Language', 'Science',
-                    'Marketing', 'Asia', 'Fashion', 'Business', 'Music', 'Philosophy', 'History',
-                    'Internet', 'Children', 'Travel', 'Media', 'Photography', 'Design',
-                    'Environment', 'Food', 'Security', 'Religion', 'Sports', 'Healthcare',
-                    'Data Analysis', 'Helping People', 'Performance', 'North America', 'Animals',
-                    'Management', 'Programming', 'Art', 'Writing', 'Leadership'
+                    "Nutrition", "South America", "Pop Culture", "Legal Issues", "Teaching",
+                    "Journalism", "Sustainability", "Finance", "Nature", "Conflict Resolution",
+                    "Video Games", "Math", "Human Behavior", "Literature", "Crafts", "Technology",
+                    "Movies", "Fitness", "Forensics", "Central America", "Language", "Science",
+                    "Marketing", "Asia", "Fashion", "Business", "Music", "Philosophy", "History",
+                    "Internet", "Children", "Travel", "Media", "Photography", "Design",
+                    "Environment", "Food", "Security", "Religion", "Sports", "Healthcare",
+                    "Data Analysis", "Helping People", "Performance", "North America", "Animals",
+                    "Management", "Programming", "Art", "Writing", "Leadership"
+
+                    REMEMBER YOUR OUTPUT WILL START AND END WITH BRACKETS. NOTHING BEFORE OR AFTER strings will be in double quotes
 
                 """
                 response_text = await get_model_response(system_instruction, input_text)
                 try:
+
                     # Parse the JSON string into a Python object
+                    print(response_text)
                     parsed_response = json.loads(response_text)
+                    print(parsed_response)
+
 
                     # Extract the semester and interests
                     cur_semester = parsed_response[0]  # First element is the semester
@@ -164,20 +159,22 @@ async def get_bot_response(input_text, chat_branch_state):
 
                     print("Current Semester:", cur_semester)
                     print("Interests:", interests)
-                    schedule_builder = schedule_build(cur_semester, interests)
+                    schedule_builder = schedule_build(interests, cur_semester)
+                    print(schedule_builder)
                     system_instruction = """
-                    You will return a strictly formatted html table showing a schedule made with the following data. nothing else.
-                    The data is:
+                    You will return these classes in the schedule as a formatted list with the information associated with each.you can use <br> in there to make new line. if time is not listed just say it is asynchronous online
                         """
-                    response_text = await get_model_response(system_instruction, str(schedule_builder))
+                    text = await get_model_response(system_instruction, str(schedule_builder))
+                    text = text + "<br><br>Now what would you like to do? As a reminder, you can ask me about majors, minors, or scheduling."
+                    new_chat_branch_state = "Initial State"
 
 
 
                 except json.JSONDecodeError as e:
-                    print("Error parsing response:", e) 
+                    print("Error parsing response:", e)
 
 
-            
+
             case "Majors":
                 system_instruction = """
                     You are a classifier.
@@ -202,11 +199,12 @@ async def get_bot_response(input_text, chat_branch_state):
                 print("Gemini response:", response_text)
 
                 try:
-                    suggested_majors = choose_degree_of_interests("majors", json.loads(response_text),)
+                    suggested_majors = choose_degree_off_interests("majors", json.loads(response_text),)
                     print("Suggested Majors:", suggested_majors)
 
                     system_instruction_summary = """
-                        You will sum up why a major is good for them based on their interests and the majors they are interested in. Here is the data:
+                        You will sum up why each of these majors is good for a student (Same student for all) based off of these interests of their's which is listed with teach associated major
+                        Put these as a list with <br> in between and return nothing before or after this list make sure each major is bolded
                     """
 
                     summary_response = await get_model_response(system_instruction_summary, json.dumps(suggested_majors))
@@ -216,7 +214,8 @@ async def get_bot_response(input_text, chat_branch_state):
                     print("Error processing majors:", e)
                     text = "Sorry, something went wrong while processing your interests."
 
-                new_chat_branch_state = "Final State"
+                text = text + "<br><br>Now what would you like to do? As a reminder, you can ask me about majors, minors, or scheduling."
+                new_chat_branch_state = "Initial State"
             case "Minors":
                 system_instruction = """
                     You are a classifier.
@@ -241,12 +240,12 @@ async def get_bot_response(input_text, chat_branch_state):
                 print("Gemini response:", response_text)
 
                 try:
-                    suggested_majors = choose_degree_of_interests("minors", json.loads(response_text),)
+                    suggested_majors = choose_degree_off_interests("minors", json.loads(response_text),)
                     print("Suggested Minors:", suggested_majors)
 
                     system_instruction_summary = """
-                        You will sum up why a minor is good for them based on their interests and the majors they are interested in. Here is the data:
-                    """
+You will sum up why each of these minors is good for a student (Same student for all) based off of these interests of their's which is listed with teach associated minor
+                        Put these as a list with <br> in between and return nothing before or after this list make sure each minor is bolded                  """
 
                     summary_response = await get_model_response(system_instruction_summary, json.dumps(suggested_majors))
                     text = summary_response.strip()
@@ -255,7 +254,8 @@ async def get_bot_response(input_text, chat_branch_state):
                     print("Error processing majors:", e)
                     text = "Sorry, something went wrong while processing your interests."
 
-                new_chat_branch_state = "Final State"
+                text = text + "<br><br>Now what would you like to do? As a reminder, you can ask me about majors, minors, or scheduling."
+                new_chat_branch_state = "Initial State"
 
             case _:
                 text = ""
@@ -268,4 +268,3 @@ async def get_bot_response(input_text, chat_branch_state):
         traceback.print_exc()  # Prints full stack trace
         return "Sorry, something went wrong." + traceback.format_exc() + "Hello"
 
-# Run the async function and print output
