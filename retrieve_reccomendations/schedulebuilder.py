@@ -160,4 +160,4 @@ def schedule_build(interests, term):
     return final_schedule
 
 # Example usage:
-print(schedule_build(('Art','Music'), 2))
+# print(schedule_build(('Art','Music'), 2))
