@@ -122,16 +122,19 @@ def schedule_build(interests, term):
                 regularclasses.append(i)
 
     genids = []
+    dic={}
     for i in geneds:
         d = by_interest.recommended_class(interests, i)
         dax = d[1]
+        reasons=d[2]
+        dic[dax]=reasons
         course_title = ' '.join(dax.split()[:2])
         genids.append(course_title)
 
     final_course = regularclasses + genids
     schedule = build_schedule(final_course, term)
     final_schedule = assign_predefined_times([course_id for course_id, time in schedule.items() if time == '-'], schedule)
-    return final_schedule
+    return final_schedule, dic
 
 # Example usage:
 print(schedule_build(('Art','Music'), 2))
