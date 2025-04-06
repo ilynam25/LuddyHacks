@@ -1,7 +1,7 @@
 import pandas as pd
 import random as rand
 import re
-import fred_labeling_classes as fred
+import classes_by_interest as by_interest
 
 # Load datasets
 df = pd.read_csv('combined_output.csv')
@@ -118,7 +118,7 @@ def schedule_build(interests, term):
 
     genids = []
     for i in geneds:
-        d = fred.recommended_class(interests, i)
+        d = by_interest.recommended_class(interests, i)
         dax = d[1]
         course_title = ' '.join(dax.split()[:2])
         genids.append(course_title)
