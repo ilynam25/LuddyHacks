@@ -7,6 +7,25 @@ genai.configure(api_key="AIzaSyDaFG2DfySbZothZJf-q9Sjapgc67WRW1g")
 # ✅ Create the Gemini model instance
 model = genai.GenerativeModel("gemini-1.5-flash")
 
+
+async def get_model_response(system_instruction, user_prompt):
+    try:
+        # ✅ Combine instruction and user prompt into one "user" message
+        full_prompt = f"{system_instruction}\n\nUser request: {user_prompt}"
+
+        # ✅ Generate content using the model
+        response = model.generate_content(
+            contents=[
+                {"role": "user", "parts": [{"text": full_prompt}]}
+            ]
+        )
+
+        # ✅ Extract and return the response text
+        return response.text.strip()
+    
+    except Exception as e:
+        print("Error:", e)
+        return "Sorry, something went wrong."
 # ✅ Async function to get the bot response
 async def get_bot_response(input_text, chat_branch_state):
     try:
@@ -15,28 +34,19 @@ async def get_bot_response(input_text, chat_branch_state):
 
         if chat_branch_state == "Initial State":
             system_instruction = """
-You are a classifier. Return only a single number (and nothing else) based on the user's request:
-Return 1 if they want help finding a single class.
-Return 2 if they want help finding majors.
-Return 3 if they want help finding minors.
-Return 4 if they want to see information about a class, such as average GPA.
-Return 5 if they want help scheduling a full semester of classes for their major.
-Do not return 5 if they are only asking about scheduling an individual class.
-If they imply multiple things, do 5.
-Return -1 if they are asking about nothing related to the above, but only if absolutely not related.
-Do not explain your answer. Do not include any text. Just return the number.
-"""
+                You are a classifier. Return only a single number (and nothing else) based on the user's request:
+                Return 1 if they want help finding a single class.
+                Return 2 if they want help finding majors.
+                Return 3 if they want help finding minors.
+                Return 4 if they want to see information about a class, such as average GPA.
+                Return 5 if they want help scheduling a full semester of classes for their major.
+                Do not return 5 if they are only asking about scheduling an individual class.
+                If they imply multiple things, do 5.
+                Return -1 if they are asking about nothing related to the above, but only if absolutely not related.
+                Do not explain your answer. Do not include any text. Just return the number.
+            """
 
-            # ✅ Combine instruction and user prompt into one "user" message
-            full_prompt = f"{system_instruction}\n\nUser request: {input_text}"
-
-            response = model.generate_content(
-                contents=[
-                    {"role": "user", "parts": [{"text": full_prompt}]}
-                ]
-            )
-
-            response_text = response.text.strip()
+            response_text = await get_model_response(system_instruction, input_text)
             print("Gemini response:", response_text)
 
             match response_text:
