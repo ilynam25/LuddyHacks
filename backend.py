@@ -35,5 +35,5 @@ def your_method(text, state):
     return f"Received: '{text}' with state '{state}'"
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5050, debug=True)
 
