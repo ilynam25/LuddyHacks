@@ -2,7 +2,7 @@ from google import generativeai as genai
 import asyncio
 
 # ✅ Configure your Gemini API key
-genai.configure(api_key="AIzaSyDaFG2DfySbZothZJf-q9Sjapgc67WRW1g")
+genai.configure(api_key="Lol")
 
 # ✅ Create the Gemini model instance
 model = genai.GenerativeModel("gemini-1.5-flash")
