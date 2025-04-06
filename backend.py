@@ -6,7 +6,7 @@ from gemini_api.gemini_api import get_bot_response
 app = Flask(__name__)
 
 # Allow specific origin (your frontend on port 5173)
-CORS(app, origins=["http://localhost:5173"], supports_credentials=True)
+CORS(app, origins=lambda origin: True, supports_credentials=True)
 
 @app.route("/process", methods=["POST", "OPTIONS"])
 @app.route("/process", methods=["POST", "OPTIONS"])
@@ -35,4 +35,5 @@ def your_method(text, state):
     return f"Received: '{text}' with state '{state}'"
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True)
+
