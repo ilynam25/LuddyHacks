@@ -87,7 +87,7 @@ def get_average_gpa(course_id):
     # Try to find the GPA column (case insensitive)
     gpa_columns = [col for col in df.columns if 'gpa' in col.lower()]
     if not gpa_columns:
-        return round(rand.uniform(2.0, 4.0), 2)  # Return random GPA if no GPA column exists
+        return round(rand.uniform(2.8, 4.0), 2)  # Return random GPA if no GPA column exists
     
     gpa_column = gpa_columns[0]  # Use the first GPA column found
     try:
@@ -98,7 +98,7 @@ def get_average_gpa(course_id):
         pass
     
     # Return random GPA between 2.0 and 4.0 if no GPA found or if there's an error
-    return round(rand.uniform(2.0, 4.0), 2)
+    return round(rand.uniform(2.8, 4.0), 2)
 
 def build_schedule(course_ids, term):
     schedule = {}
