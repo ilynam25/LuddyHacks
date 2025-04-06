@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch
 import matplotlib.lines as mlines
+import schedulebuilder as sc  # Make sure this imports the right function!
 
 def draw_class_to_career_map(class_to_goals):
     fig, ax = plt.subplots(figsize=(12, 6))
@@ -58,15 +59,25 @@ def draw_class_to_career_map(class_to_goals):
     plt.show()
 
 
+def make_connections(interests, term):
+    # Fetch scheduled classes and metadata
+    class_schedule, course_metadata = sc.schedule_build(interests, term)
+    lst=list(class_schedule.keys())
+    dic={}
+    for i in lst:
+        dic[i]=('Required for Major')
+    # print(lst)
+    # Convert metadata to class_to_goals format
+    course_metadata.update(dic)
+    class_to_goals = {}
+    for course, goals in course_metadata.items():
+        # Extract course code (e.g., 'FRIT-M 110' from full name)
+        code = course.split()[0]  # Simple split; adjust as needed
+        class_to_goals[code] = goals
+    
+    draw_class_to_career_map(class_to_goals)
 
-career_goals=[]
 
-class_to_goals = {
-    'Data Structures': ['Software Engineer'],
-    'Machine Learning': ['Data Scientist'],
-    'Databases': ['Data Scientist', 'Software Engineer'],
-    'UX Design': ['Product Manager'],
-    'Cybersecurity': ['Security Analyst']
-}
 
-draw_class_to_career_map(class_to_goals)
+# Example usage:
+make_connections([''], 1)  # Adjust your interests and term

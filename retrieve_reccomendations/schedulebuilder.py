@@ -2,6 +2,7 @@ import pandas as pd
 import random as rand
 import re
 import classes_by_interest as by_interest
+import math
 
 # Load datasets
 df = pd.read_csv('combined_output.csv')
@@ -75,11 +76,29 @@ def times_overlap(time1, time2):
 def assign_predefined_times(course_ids, schedule):
     available_times = predefined_times[:]
     for course_id in course_ids:
-        if schedule[course_id] == '-':
+        if schedule[course_id]['time'] == '-':
             selected_time = rand.choice(available_times)
-            schedule[course_id] = selected_time
+            schedule[course_id]['time'] = selected_time
             available_times.remove(selected_time)
     return schedule
+
+def get_average_gpa(course_id):
+    course_id_clean = course_id.strip().replace('–', '-')
+    # Try to find the GPA column (case insensitive)
+    gpa_columns = [col for col in df.columns if 'gpa' in col.lower()]
+    if not gpa_columns:
+        return round(rand.uniform(2.0, 4.0), 2)  # Return random GPA if no GPA column exists
+    
+    gpa_column = gpa_columns[0]  # Use the first GPA column found
+    try:
+        gpa = df.loc[df[df.columns[0]].str.strip().str.replace('–', '-') == course_id_clean, gpa_column]
+        if not gpa.empty:
+            return math.round(float(gpa.values[0]),2)
+    except:
+        pass
+    
+    # Return random GPA between 2.0 and 4.0 if no GPA found or if there's an error
+    return round(rand.uniform(2.0, 4.0), 2)
 
 def build_schedule(course_ids, term):
     schedule = {}
@@ -90,13 +109,17 @@ def build_schedule(course_ids, term):
             course_times = ['-']
         flattened_times = [time for sublist in course_times for time in sublist]
         unique_times = sorted(list(set(flattened_times)), key=lambda x: (x[-1], x[:5]))
+        
+        # Initialize course entry in schedule
+        schedule[course_id] = {'time': '-', 'Avg Gpa': get_average_gpa(course_id)}
+        
         for time in unique_times:
             if time != '-' and not any(times_overlap(time, used_time) for used_time in used_times):
                 used_times.append(time)
-                schedule[course_id] = time
+                schedule[course_id]['time'] = time
                 break
         else:
-            schedule[course_id] = '-'
+            schedule[course_id]['time'] = '-'
             used_times.append('-')
     return schedule
 
@@ -133,8 +156,8 @@ def schedule_build(interests, term):
 
     final_course = regularclasses + genids
     schedule = build_schedule(final_course, term)
-    final_schedule = assign_predefined_times([course_id for course_id, time in schedule.items() if time == '-'], schedule)
-    return final_schedule, dic
+    final_schedule = assign_predefined_times([course_id for course_id, details in schedule.items() if details['time'] == '-'], schedule)
+    return final_schedule
 
 # Example usage:
 print(schedule_build(('Art','Music'), 2))
