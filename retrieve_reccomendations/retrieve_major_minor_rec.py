@@ -3,7 +3,7 @@ def choose_degree_of_interests(major_or_minor, interests):
     interest_to_degrees = {}
 
     # Read the file synchronously
-    with open('../explore_programs/explore_programs_' + major_or_minor + '_raw.txt', 'r') as file:
+    with open('./explore_programs/explore_programs_' + major_or_minor + '_raw.txt', 'r') as file:
         lines = file.read().strip().split('\n')
 
     for i in range(0, len(lines), 2):
