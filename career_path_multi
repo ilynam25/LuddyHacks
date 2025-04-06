@@ -1,0 +1,16 @@
+digraph {
+	"Data Structures" [label="Data Structures" color=lightblue shape=box style=filled]
+	"Machine Learning" [label="Machine Learning" color=lightblue shape=box style=filled]
+	Databases [label=Databases color=lightblue shape=box style=filled]
+	"UX Design" [label="UX Design" color=lightblue shape=box style=filled]
+	"Systems Programming" [label="Systems Programming" color=lightblue shape=box style=filled]
+	"Software Engineer" [label="Software Engineer" color=lightgreen shape=ellipse style=filled]
+	"Data Scientist" [label="Data Scientist" color=lightgreen shape=ellipse style=filled]
+	"Product Manager" [label="Product Manager" color=lightgreen shape=ellipse style=filled]
+	"Data Structures" -> "Software Engineer"
+	"Machine Learning" -> "Data Scientist"
+	Databases -> "Data Scientist"
+	Databases -> "Software Engineer"
+	"UX Design" -> "Product Manager"
+	"Systems Programming" -> "Software Engineer"
+}
