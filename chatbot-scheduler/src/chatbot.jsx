@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import IU_Logo from "./assets/IU Logo.png";
 import Robit from "./assets/Robit.png";
 import { GoogleGenerativeAI } from "@google/generative-ai";
@@ -10,7 +10,7 @@ const ai = new GoogleGenerativeAI("AIzaSyDaFG2DfySbZothZJf-q9Sjapgc67WRW1g");
 export default function ChatbotInterface() {
   const [chatBranchState, setChatBranchState] = useState('Initial State');
   const [messages, setMessages] = useState([
-    { id: 1, text: "Hi there! I'm your Scheduling Assistant 🤖\n I’m here to help you plan your academic journey with ease! Whether you're looking for classes that fit your GenEd requirements, exploring majors and minors that match your interests, or wanting to learn more about a course’s average GPA—I’ve got you covered. I can also help you build your schedule based on your major and make sure everything fits together smoothly. Let’s make planning your future a breeze! 🎓📅", sender: "bot" },
+    { id: 1, text: "Hi there! I'm your Scheduling Assistant 🤖\n I’m here to help remove the stress of forging your academic journey! Whether you're exploring majors and minors that match your interests, or wanting to schedule your semester based off of interests, as an AI assistant, I've got you covered. Let’s make planning your future a breeze! Just tell me whether you want to explore minors, explore majors, or schedule for next semester! 🎓📅", sender: "bot" },
   ]);
   const [inputValue, setInputValue] = useState("");
   const [isTyping, setIsTyping] = useState(false);
@@ -43,13 +43,14 @@ export default function ChatbotInterface() {
 
   async function sendTextToServer({ text, state }) {
     try {
-      const response = await fetch("http://127.0.0.1:5000/process", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ text, state })
-      });
+        const response = await fetch("https://gshores.pythonanywhere.com/process", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json"
+            },
+            credentials: "include",  // ✅ ADD THIS LINE
+            body: JSON.stringify({ text, state })
+          });
   
       if (!response.ok) {
         throw new Error("Server error");
@@ -92,7 +93,7 @@ export default function ChatbotInterface() {
           />
           <div>
             <h2 className="text-base font-semibold text-gray-800">
-              IU Scheduling Assistant
+              EduAdvisorAI
             </h2>
             <p className="text-xs text-gray-500">Online</p>
           </div>
@@ -112,7 +113,7 @@ export default function ChatbotInterface() {
       ? "bg-[#990000] text-white rounded-br-none"
       : "bg-gray-200 text-gray-800 rounded-bl-none"
   }`}
-  dangerouslySetInnerHTML={{ __html: marked.parse(message.text.replace(/\n/g, "<br>")) }}
+  dangerouslySetInnerHTML={{ __html: marked.parse(message.text) }}
 ></div>
             </div>
           ))}
