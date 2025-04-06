@@ -157,7 +157,34 @@ def schedule_build(interests, term):
     final_course = regularclasses + genids
     schedule = build_schedule(final_course, term)
     final_schedule = assign_predefined_times([course_id for course_id, details in schedule.items() if details['time'] == '-'], schedule)
+
+    for i in final_schedule:
+       # print("SOEMTIO", i, i.strip(), type(i), final_schedule[i])
+        
+        df = pd.read_csv('C:/Users/fredy/LuddyHacks/working_csv.csv')
+
+        df['ClassCombined'] = df['ClassCombined'].str.replace('–', '-').str.strip()
+
+        class_key = i.replace('–', '-').strip()
+
+        match = df[df['ClassCombined'] == class_key]
+
+       # print("THIS IS MATCH", match)
+        #print("MATCH END")
+        #print("THIS IS WHAT I NEED?", match['Course Description'])
+
+        val = match['Course Description']
+        
+        if not match.empty:
+           # print(val, type(val), "IMPORTANT", val.values[0], "FINAL SCEDULE I", final_schedule[i])
+            final_schedule[i]['Course Description'] = val.values[0]
+           # print("Course Description:", match['Course Description'].iloc[0])
+            
+        else:
+            #print(f"No match found for {i}")
+            final_schedule[i]['Course Description'] = 'NA'
+        
     return final_schedule
 
 # Example usage:
-# print(schedule_build(('Art','Music'), 2))
+print(schedule_build(('Art','Music'), 2))
